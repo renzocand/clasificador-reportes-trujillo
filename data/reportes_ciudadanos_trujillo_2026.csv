@@ -1,0 +1,501 @@
+id_reporte,texto_reporte,canal,zona,longitud_texto,menciona_riesgo,menciona_menores,dias_transcurridos,fecha_reporte,anotador,categoria,prioridad
+1,"BUEN DIA, EL SARDINEL DE URB. SANTA MARIA ESTÁ DESCASCARADO, ES MÁS TEMA DE PRESENTACION EL VECINDARIO YA SE CANSO y ademas la señal con el nombre de la calle de El Recreo esta torcida",app_municipal,Trujillo - cercado,35,0,0,20,2026-01-21,H. Arteaga,C1 Vias y veredas,baja
+2,"quiero reportar que las veredas de Monserrate estan hundidas en varios tramos, parece trocha",x,Trujillo - cercado,14,0,0,5,2026-07-10,A. Del Portal,C1 Vias y veredas,alta
+3,hay un problema serio en Rio Seco,libro_reclamaciones,El Porvenir,7,0,0,5,2025-11-06,R. Candiotti,C1 Vias y veredas,baja
+4,"LA BERMA DE EL MERCADO ESTA DESTROZADA, NO SE PUEDE PASAR CON EL COCHE DEL BEBE YA RECLAMAMOS VARIAS VECES",libro_reclamaciones,Florencia de Mora,20,0,1,12,2026-01-17,H. Arteaga,C1 Vias y veredas,alta
+5,"xfa el pasaje de Las Delicias sigue sin asfaltar, los mototaxis se tienen q desviar, los niños juegan al costado atiendan por favor",app_municipal,Moche,23,0,1,8,2026-04-16,H. Arteaga,C1 Vias y veredas,media
+6,"señores de la muni, las juntas de la acera de Villa del Mar estan abiertas hasta cuando",redaccion_propia,Salaverry,17,0,0,10,2026-03-02,R. Candiotti,C1 Vias y veredas,baja
+7,"DENUNCIO  QUE HAY UN FORADO ENORME EN URB. CALIFORNIA, UNA SEÑORA SE TROPEZO Y SE FRACTURO LA MUÑECA YA RECLAMAMOS VARIAS VECES",whatsapp,Victor Larco Herrera,22,1,0,0,2025-12-04,R. Candiotti,C1 Vias y veredas,alta
+8,"buenas tardes, el sardinel de Pueblo Libre está descascarado gracias",facebook,La Esperanza,10,0,0,45,2025-10-11,R. Candiotti,C1 Vias y veredas,baja
+9,"reitero mi reclamo, hay un bache mediano en el jr. Pizarro, al lado hay una posta medica por favor atiendan",x,Trujillo - cercado,20,0,0,7,2025-11-18,M. Azcarate,C1 Vias y veredas,alta
+10,"las juntas de la vereda de Santa Veronica estan abiertas, es mas tema de presentacion espero respuesta",facebook,La Esperanza,17,0,0,5,2025-11-08,H. Arteaga,C1 Vias y veredas,baja
+11,"buenos días, la acera frente a El Recreo está rota, cuando llueve se vuelve puro lodo, los chicos juegan al costado espero respuesta",facebook,Trujillo - cercado,23,0,1,3,2026-01-20,M. Azcarate,C1 Vias y veredas,media
+12,"la pista de la av. 26 de Marzo se llena de agua cuando llueve,, da pena el carro ojala está vez manden a alguien",app_municipal,Florencia de Mora,24,0,0,2,2026-07-24,M. Azcarate,C1 Vias y veredas,media
+13,"SEÑORES DE LA MUNI, LAS JUNTAS DE LA ACERA DE EL RECREO ESTAN ABIERTAS, TODAVIA NO MOLESTÁ ESPERO RESPUESTA",facebook,Trujillo - cercado,19,0,0,20,2026-03-28,M. Azcarate,C1 Vias y veredas,baja
+14,"señores de la muni, hay un desnivel bravo en la pista de urb. California, cualquiera se mata ahi, por ahi cruzan los escolares a la hora de salida",facebook,Victor Larco Herrera,28,1,1,5,2026-06-08,A. Del Portal,C1 Vias y veredas,alta
+15,"BUENOS DIAS,, EL BACHE DE URB. PALERMO YA ES UN CRATER, CUALQUIERA SE MATA AHI LLEVA 2 DIAS ASI",app_municipal,Trujillo - cercado,19,1,0,2,2026-04-08,R. Candiotti,C1 Vias y veredas,alta
+16,"EL PASAJE DE LA AV. LARCO SIGUE SIN ASFALTAR, YA INCOMODA CAMINAR, LOS NIÑOS JUEGAN AL COSTADO YA RECLAMAMOS VARIAS VECES",redaccion_propia,Trujillo - cercado,21,0,1,2,2026-02-05,A. Del Portal,C1 Vias y veredas,media
+17,"por favor hay una zanja abierta y sin señalizar en el balneario, los carros lo esquivan de golpe y casi chocan ya reclamamos varias veces",redaccion_propia,Huanchaco,25,0,0,4,2026-07-02,A. Del Portal,C1 Vias y veredas,alta
+18,"quiero reportar que se hundio la pista en la av. Larco, una señora se tropezo y se fracturo la muñeca el vecindario ya se canso",facebook,Trujillo - cercado,25,1,0,1,2026-07-03,R. Candiotti,C1 Vias y veredas,alta
+19,"xfa hay varios huecos regados en Jerusalen, ya incomoda caminar gracias",facebook,La Esperanza,11,0,0,10,2026-07-08,M. Azcarate,C1 Vias y veredas,media
+20,"BUENOS DÍAS, EL ASFALTO DE VISTA ALEGRE SE ESTÁ LEVANTANDO, LOS MOTOTAXIS SE TIENEN QUE DESVIAR",facebook,Victor Larco Herrera,16,0,0,15,2026-01-10,R. Candiotti,C1 Vias y veredas,media
+21,"xfa colapso parte de la calzada en urb. San Andres, cualquiera se mata ahi ya reclamamos varias veces",facebook,Trujillo - cercado,18,1,0,1,2026-06-23,H. Arteaga,C1 Vias y veredas,alta
+22,otra vez hay un desnivel bravo en la pista de la av. Pumacahua ojala está vez manden a alguien,whatsapp,El Porvenir,19,0,0,5,2026-08-23,A. Del Portal,C1 Vias y veredas,alta
+23,"QUIERO REPORTAR QUE LA VEREDA DE VILLA HERMOSA TIENE RAJADURAS FINITAS, TODAVIA NO MOLESTÁ YA NO SABEMOS A QUIEN ACUDIR",x,Florencia de Mora,20,0,0,60,2026-01-14,H. Arteaga,C1 Vias y veredas,media
+24,"ya  es el colmo, las veredas de el centro de Moche estan hundidas en varios tramos, cuando llueve se vuelve puro lodo ya no sabemos a quien acudir",facebook,Moche,28,0,0,15,2026-04-26,R. Candiotti,C1 Vias y veredas,media
+25,Menocucho esta en pesimo estado,facebook,Laredo,5,0,0,2,2026-03-29,R. Candiotti,C1 Vias y veredas,alta
+26,vecinos de la zona reportamos que el sardinel de El Recreo está descascarado!!,x,Trujillo - cercado,13,0,0,20,2026-08-07,M. Azcarate,C1 Vias y veredas,media
+27,"buenas tardes, hay unas grietas chiquitas en la pista de El Tropico, no es urgente",whatsapp,Huanchaco,15,1,0,25,2026-07-17,M. Azcarate,C1 Vias y veredas,baja
+28,"otra vez la pista de Miguel Grau está parchada por todos lados, es la ruta de los chicos del colegio",app_municipal,El Porvenir,20,0,1,10,2026-05-12,A. Del Portal,C1 Vias y veredas,media
+29,"el asfalto de el centro de Moche se esta levantando, ya incomoda caminar van 15 dias y nada",redaccion_propia,Moche,18,0,0,15,2026-07-12,M. Azcarate,C1 Vias y veredas,media
+30,"reitero mi reclamo, la berma de la plaza de Laredo esta destrozada, ya incomoda caminar lleva 12 dias asi",app_municipal,Laredo,19,0,0,12,2026-03-26,H. Arteaga,C1 Vias y veredas,media
+31,"desde hace 25 días la pista de Miguel Grau necesita mantenimiento preventivo, todavia no molestá nadie viene a ver",redaccion_propia,El Porvenir,19,0,0,25,2026-01-08,A. Del Portal,C1 Vias y veredas,media
+32,hay  un forado enorme en la av. Larco cuadra 12 van 0 días y nada,redaccion_propia,Victor Larco Herrera,15,0,0,0,2026-06-02,M. Azcarate,C1 Vias y veredas,alta
+33,"colapso parte de la calzada en Buenos Aires, al lado hay una posta medica ya no sabemos a quien acudir",x,Victor Larco Herrera,20,0,0,0,2026-07-29,H. Arteaga,C1 Vias y veredas,alta
+34,"ya es el colmo,, hay varios huecos regados en la av. Pumacahua, parece trocha, justo al frente hay un colegio lleva 7 dias asi",facebook,El Porvenir,24,0,1,7,2026-01-28,A. Del Portal,C1 Vias y veredas,alta
+35,"las juntas de la acera de Rio Seco estan abiertas, conviene atenderlo antes que crezca y ademas se acumula basura en la esquina de Miguel Grau",x,El Porvenir,26,0,0,20,2026-02-17,H. Arteaga,C1 Vias y veredas,baja
+36,nadie atiende El Recreo,libro_reclamaciones,Trujillo - cercado,4,0,0,10,2026-02-20,R. Candiotti,C1 Vias y veredas,media
+37,"REITERO MI RECLAMO, LA PISTA DE SANTA VERONICA ESTA PARCHADA POR TODOS LADOS, YA INCOMODA CAMINAR, POR AHI CRUZAN LOS ESCOLARES A LA HORA DE SALIDA GRACIAS...",facebook,La Esperanza,27,0,1,15,2026-04-25,M. Azcarate,C1 Vias y veredas,alta
+38,"otra vez hay unas grietas chiquitas en la pista de Las Delicias, no es urgente",redaccion_propia,Moche,15,1,0,20,2026-08-08,R. Candiotti,C1 Vias y veredas,baja
+39,el sardinel de Las Quintanas esta descascarado lleva 10 dias asi,x,Trujillo - cercado,11,0,0,10,2026-06-05,H. Arteaga,C1 Vias y veredas,baja
+40,"quiero reportar que se hundio la pista en Manuel Arevalo, ya hubo un accidente ojala está vez manden a alguien",facebook,La Esperanza,20,1,0,4,2026-07-03,H. Arteaga,C1 Vias y veredas,alta
+41,"ya es el colmo, el pasaje de Huerta Grande sigue sin asfaltar, los chicos juegan al costado",app_municipal,Victor Larco Herrera,17,0,1,15,2025-10-19,R. Candiotti,C1 Vias y veredas,alta
+42,"la berma de la av. principal esta destrozada, por ahi cruzan los escolares a la hora de salida",redaccion_propia,Salaverry,18,0,1,15,2026-07-01,H. Arteaga,C1 Vias y veredas,alta
+43,"ya  es el colmo,, hay varios huecos regados en Nuevo Porvenir y ademas hay una humedad en la vereda de Rio Seco",facebook,El Porvenir,22,0,0,3,2025-10-29,A. Del Portal,C1 Vias y veredas,media
+44,"vecinos de la zona reportamos que la vereda frente a urb. California está rota, los mototaxis se tienen que desviar ya reclamamos varias veces",facebook,Victor Larco Herrera,24,0,0,12,2026-07-07,R. Candiotti,C1 Vias y veredas,media
+45,"reitero mi reclamo, quedo un hueco destapado despues de la obra en Wichanzao, los escolares juegan al costado",app_municipal,La Esperanza,18,0,1,2,2025-10-26,H. Arteaga,C1 Vias y veredas,alta
+46,"la pista de el mercado se llena de agua cuando llueve, da pena el carro",facebook,Florencia de Mora,15,0,0,7,2026-03-01,A. Del Portal,C1 Vias y veredas,media
+47,"denuncio que el sardinel de Manuel Arevalo esta descascarado,, no es urgente hasta cuando",libro_reclamaciones,La Esperanza,14,1,0,25,2026-04-22,A. Del Portal,C1 Vias y veredas,baja
+48,"xfa el bache de el balneario ya es un crater, cualquiera se mata ahi atiendan por favor",libro_reclamaciones,Huanchaco,17,1,0,2,2026-08-22,H. Arteaga,C1 Vias y veredas,alta
+49,Vista Alegre esta en pesimo estado,whatsapp,Victor Larco Herrera,6,0,0,5,2026-05-01,M. Azcarate,C1 Vias y veredas,baja
+50,"el asfalto de Miguel Grau se esta levantando, parece trocha atiendan por favor",redaccion_propia,El Porvenir,13,0,0,10,2026-05-21,M. Azcarate,C1 Vias y veredas,media
+51,"buenas tardes, el sardinel de El Recreo esta descascarado y ademas la tapa del buzon de urb. Primavera quedo mal nivelada",whatsapp,Trujillo - cercado,21,0,0,30,2026-08-02,M. Azcarate,C1 Vias y veredas,baja
+52,"por favor la pista de la carretera a las huacas está toda deteriorada, cada vez está más grande, es la ruta de los chicos del colegio hasta cuando y ademas la luminaria de la campina alumbra muy poquito",whatsapp,Moche,38,0,1,8,2026-06-20,M. Azcarate,C1 Vias y veredas,media
+53,"YA  ES EL COLMO,, HAY UN BACHE MEDIANO EN PUEBLO LIBRE, CUANDO LLUEVE SE VUELVE PURO LODO",facebook,La Esperanza,17,0,0,8,2026-08-21,A. Del Portal,C1 Vias y veredas,media
+54,"desde hace 15 días la pista de Villa del Mar está toda deteriorada, cada vez está más grande por favor atiendan",facebook,Salaverry,21,0,0,15,2026-03-10,A. Del Portal,C1 Vias y veredas,media
+55,"la pista de Menocucho está toda deteriorada, ya incomoda caminar ya no sabemos a quien acudir",redaccion_propia,Laredo,16,0,0,3,2026-05-05,M. Azcarate,C1 Vias y veredas,media
+56,"desde hace 7 días el asfalto de Miguel Grau se está levantando, cada vez está más grande atiendan xfa",app_municipal,El Porvenir,19,0,0,7,2026-08-26,M. Azcarate,C1 Vias y veredas,media
+57,"BUENOS DÍAS, LAS JUNTAS DE LA VEREDA DE BARRAZA ESTAN ABIERTAS, CONVIENE ATENDERLO ANTES QUE CREZCA",x,Laredo,16,0,0,25,2025-12-20,A. Del Portal,C1 Vias y veredas,baja
+58,"otra vez la pista de la av. 26 de Marzo se llena de agua cuando llueve, cada vez está más grande, los escolares juegan al costado el vecindario ya se canso",facebook,Florencia de Mora,31,0,1,5,2026-04-21,M. Azcarate,C1 Vias y veredas,alta
+59,"buenos días, el bache de el óvalo Mansiche ya es un crater, los vehiculos lo esquivan de golpe y casi chocan",x,Trujillo - cercado,21,0,0,1,2026-05-24,M. Azcarate,C1 Vias y veredas,alta
+60,"alguien puede ver que la pista de Alto Mochica está toda deteriorada, no se puede pasar con el coche del bebe, ahi mismo funciona un nido",facebook,El Porvenir,26,0,1,12,2026-03-20,R. Candiotti,C1 Vias y veredas,media
+61,"buenos dias, se abrio un hueco profundo en la av. Condorcanqui, un taxi rompio la llanta ahi mismo",whatsapp,La Esperanza,18,0,0,2,2026-05-18,A. Del Portal,C1 Vias y veredas,alta
+62,"alguien puede ver que las juntas de la acera de Vista Alegre estan abiertas, conviene atenderlo antes que crezca ojala sta vez manden a alguien",app_municipal,Victor Larco Herrera,25,0,0,60,2026-04-15,H. Arteaga,C3 Agua y desague,baja
+63,"OTRA  VEZ LA PISTA DE LA AV. PUMACAHUA SE LLENA DE AGUA CUANDO LLUEVE, PARECE TROCHA",libro_reclamaciones,El Porvenir,16,0,0,7,2026-05-13,R. Candiotti,C1 Vias y veredas,media
+64,"la pista de la av. Larco cuadra 12 se llena de agua cuando llueve, ya incomoda caminar hasta cuando",redaccion_propia,Victor Larco Herrera,19,0,0,12,2026-03-20,M. Azcarate,C1 Vias y veredas,media
+65,"xfa la pista de la zona alta se llena de agua cuando llueve, cada vez esta mas grande hasta cuando",libro_reclamaciones,Alto Trujillo,20,0,0,12,2026-05-05,A. Del Portal,C1 Vias y veredas,media
+66,"hay una zanja abierta y sin señalizar en urb. California,, un taxi rompio la llanta ahi mismo, por esa vereda caminan los ancianos del asilo ojala esta vez manden a alguien",x,Victor Larco Herrera,31,0,1,2,2025-12-23,R. Candiotti,C1 Vias y veredas,alta
+67,"vecinos de la zona reportamos que la pista de el mercado necesita mantenimiento preventivo, todavia no molesta gracias",redaccion_propia,Florencia de Mora,18,0,0,45,2026-01-08,A. Del Portal,C1 Vias y veredas,baja
+68,"vecinos de la zona reportamos que hay unas grietas chiquitas en la pista de Menocucho, todavia no molesta...",redaccion_propia,Laredo,18,0,0,45,2026-02-23,M. Azcarate,C1 Vias y veredas,baja
+69,alguien puede ver que el sardinel de urb. San Andres está descascarado...,facebook,Trujillo - cercado,12,0,0,10,2025-11-20,A. Del Portal,C1 Vias y veredas,baja
+70,"quedo un hueco destapado despues de la obra en la av. Larco, ya se cayeron dos motos esta semana, al lado hay una posta medica ya no sabemos a quien acudir y ademas las lineas de estacionamiento de urb. San Andres estan desgastadas",facebook,Trujillo - cercado,43,0,0,5,2026-08-24,H. Arteaga,C1 Vias y veredas,alta
+71,"por favor se abrio un hueco profundo en Covicorti, ya se cayeron dos motos está semana el vecindario ya se canso",whatsapp,Trujillo - cercado,21,0,0,5,2026-06-17,M. Azcarate,C1 Vias y veredas,alta
+72,"hay un bache mediano en el centro de Moche, cada vez está más grande hasta cuando",redaccion_propia,Moche,16,0,0,10,2026-06-03,R. Candiotti,C3 Agua y desague,media
+73,"quiero reportar que hay una zanja abierta y sin señalizar en la av. Fatima, un taxi rompio la llanta ahi mismo gracias",x,Trujillo - cercado,22,0,0,5,2025-10-25,A. Del Portal,C1 Vias y veredas,alta
+74,"reitero mi reclamo, la pista de Husares de Junin esta parchada por todos lados, parece trocha atiendan por favor...",redaccion_propia,Trujillo - cercado,19,0,0,12,2026-07-07,A. Del Portal,C1 Vias y veredas,alta
+75,"alguien puede ver que la pista de Husares de Junin se llena de agua cuando llueve, parece trocha lleva 8 días asi",redaccion_propia,Trujillo - cercado,22,0,0,8,2025-11-08,H. Arteaga,C1 Vias y veredas,media
+76,"alguien puede ver que la pista de Jerusalen se llena de agua cuando llueve, cuando llueve se vuelve puro lodo, justo al frente hay un colegio atiendan por favor",whatsapp,La Esperanza,29,0,1,2,2026-07-21,R. Candiotti,C1 Vias y veredas,alta
+77,"desde hace 7 días hay un bache mediano en la av. Larco cuadra 12, cuando llueve se vuelve puro lodo y ademas el semaforo peatonal de Vista Alegre da muy poco tiempo para cruzar",facebook,Victor Larco Herrera,34,0,0,7,2025-12-09,M. Azcarate,C1 Vias y veredas,media
+78,"denuncio que las veredas de urb. Santa Maria estan hundidas en varios tramos, los mototaxis se tienen que desviar nadie viene a ver...",facebook,Trujillo - cercado,23,0,0,3,2026-06-10,M. Azcarate,C3 Agua y desague,media
+79,arreglen Nuevo Porvenir por favor,libro_reclamaciones,El Porvenir,5,0,0,5,2026-03-26,R. Candiotti,C1 Vias y veredas,media
+80,otra vez lo mismo en Miguel Grau,facebook,El Porvenir,7,0,0,45,2025-11-10,A. Del Portal,C1 Vias y veredas,media
+81,"buen  dia, colapso parte de la calzada en el sector I, de noche no se ve nada",redaccion_propia,Alto Trujillo,17,0,0,2,2025-11-11,M. Azcarate,C1 Vias y veredas,alta
+82,desde  hace 5 días la vereda de la zona central está despintada gracias...,x,Florencia de Mora,13,0,0,5,2026-06-05,H. Arteaga,C1 Vias y veredas,baja
+83,nadie atiende Liberacion Social,app_municipal,Victor Larco Herrera,4,0,0,3,2026-02-05,R. Candiotti,C1 Vias y veredas,alta
+84,"la berma de Barraza esta destrozada, no se puede pasar con el coche del bebe espero respuesta...",redaccion_propia,Laredo,17,0,1,5,2026-05-29,A. Del Portal,C1 Vias y veredas,media
+85,"buenas tardes, las aceras de el jr. Pizarro estan hundidas en varios tramos, no se puede pasar con el coche del bebe, por ahi pasan los niños del colegio atiendan por favor",whatsapp,Trujillo - cercado,32,0,1,5,2026-03-23,A. Del Portal,C1 Vias y veredas,alta
+86,"reitero mi reclamo, la vereda de urb. Primavera tiene rajaduras finitas, conviene atenderlo antes que crezca ojala está vez manden a alguien",facebook,Trujillo - cercado,22,0,0,5,2026-06-18,H. Arteaga,C1 Vias y veredas,baja
+87,"las juntas de la vereda de Nuevo Porvenir estan abiertas, no es urgente van 30 dias y nada",facebook,El Porvenir,18,1,0,30,2026-02-02,M. Azcarate,C1 Vias y veredas,media
+88,"YA ES EL COLMO, LAS VEREDAS DE LA PLAZA DE LAREDO ESTAN HUNDIDAS EN VARIOS TRAMOS, CUANDO LLUEVE SE VUELVE PURO LODO OJALA ESTA VEZ MANDEN A ALGUIEN...",facebook,Laredo,28,0,0,2,2026-06-02,H. Arteaga,C1 Vias y veredas,alta
+89,"denuncio que la pista de Menocucho se llena de agua cuando llueve, parece trocha, por esa vereda caminan los ancianos del asilo gracias",facebook,Laredo,23,0,1,10,2026-07-21,H. Arteaga,C1 Vias y veredas,alta
+90,"reitero mi reclamo, la pista de la av. Victor Larco está toda deteriorada, cuando llueve se vuelve puro lodo por favor atiendan...",app_municipal,Huanchaco,22,0,0,2,2026-02-02,M. Azcarate,C1 Vias y veredas,media
+91,"la vereda de la carretera a las huacas está despintada, no es urgente",facebook,Moche,13,1,0,10,2026-08-27,M. Azcarate,C1 Vias y veredas,baja
+92,"buenos días, la vereda de urb. Primavera está despintada",facebook,Trujillo - cercado,9,0,0,15,2026-07-18,M. Azcarate,C1 Vias y veredas,baja
+93,"otra vez hay varios huecos regados en Liberacion Social, cada vez esta mas grande urge una solucion",redaccion_propia,Victor Larco Herrera,17,1,0,5,2026-04-26,H. Arteaga,C1 Vias y veredas,media
+94,"señores de la muni, el asfalto de Vista Alegre se está levantando, parece trocha, los escolares juegan al costado hasta cuando",libro_reclamaciones,Victor Larco Herrera,21,0,1,5,2026-03-09,M. Azcarate,C1 Vias y veredas,alta
+95,"vecinos de la zona reportamos que el sardinel de Barraza está descascarado, no es urgente atiendan por favor",facebook,Laredo,18,1,0,20,2026-08-02,M. Azcarate,C1 Vias y veredas,baja
+96,"buenas tardes, hay un bache mediano en Jerusalen ya no sabemos a quien acudir",redaccion_propia,La Esperanza,14,0,0,3,2026-05-17,M. Azcarate,C1 Vias y veredas,media
+97,"buen dia,, hay varios huecos regados en urb. Palermo, cuando llueve se vuelve puro lodo, por ahi pasan los chicos del colegio",facebook,Trujillo - cercado,22,0,1,2,2026-01-01,R. Candiotti,C1 Vias y veredas,media
+98,"ALGUIEN PUEDE VER QUE LA ACERA DE EL COMITE 12 ESTA DESPINTADA, TODAVIA NO MOLESTA...",libro_reclamaciones,Alto Trujillo,15,0,0,60,2026-07-06,H. Arteaga,C1 Vias y veredas,baja
+99,"LA VEREDA FRENTE A URB. CALIFORNIA ESTA ROTA, YA INCOMODA CAMINAR EL VECINDARIO YA SE CANSO y ademas el poste de Vista Alegre tiene la tapa del tablero suelta",libro_reclamaciones,Victor Larco Herrera,29,0,0,15,2025-10-25,R. Candiotti,C1 Vias y veredas,media
+100,"por favor el sardinel de urb. San Andres esta descascarado, conviene atenderlo antes que crezca hasta cuando",app_municipal,Trujillo - cercado,17,0,0,5,2026-04-30,A. Del Portal,C1 Vias y veredas,baja
+101,xfa hay un bache mediano en urb. Primavera ojala está vez manden a alguien!!,redaccion_propia,Trujillo - cercado,14,0,0,12,2026-03-03,R. Candiotti,C1 Vias y veredas,media
+102,nadie atiende Menocucho,redaccion_propia,Laredo,3,0,0,5,2026-01-05,R. Candiotti,C1 Vias y veredas,media
+103,el pasaje de Covicorti sigue sin asfaltar van 8 dias y nada y ademas el alumbrado de Las Quintanas lleva dias sin funcionar,facebook,Trujillo - cercado,23,0,0,8,2026-05-27,A. Del Portal,C1 Vias y veredas,media
+104,"alguien puede ver que el asfalto de Las Quintanas se está levantando, no se puede pasar con el coche del bebe hasta cuando",app_municipal,Trujillo - cercado,23,0,1,15,2026-05-02,A. Del Portal,C1 Vias y veredas,alta
+105,"reitero mi reclamo, hay un desnivel bravo en la pista de el ovalo Mansiche, cualquiera se mata ahi van 4 dias y nada",redaccion_propia,Trujillo - cercado,23,1,0,4,2026-08-25,M. Azcarate,C1 Vias y veredas,alta
+106,"hace 2 días que la pista de Monserrate está parchada por todos lados, ya incomoda caminar, por ahi cruzan los escolares a la hora de salida lleva 2 días asi",facebook,Trujillo - cercado,30,0,1,2,2026-07-10,H. Arteaga,C1 Vias y veredas,alta
+107,"buenos dias, hay un desnivel bravo en la pista de urb. Santa Maria",whatsapp,Trujillo - cercado,13,0,0,2,2025-11-10,A. Del Portal,C1 Vias y veredas,alta
+108,"reitero mi reclamo,, hay un bache mediano en Manuel Arevalo, cuando llueve se vuelve puro lodo",redaccion_propia,La Esperanza,16,0,0,8,2025-11-18,M. Azcarate,C1 Vias y veredas,media
+109,sigue igual Las Quintanas,redaccion_propia,Trujillo - cercado,4,0,0,5,2025-11-09,A. Del Portal,C1 Vias y veredas,alta
+110,"hace 4 días que se abrio un hueco profundo en Alto Mochica, cualquiera se mata ahi atiendan por favor",x,El Porvenir,19,1,0,4,2026-03-17,M. Azcarate,C1 Vias y veredas,alta
+111,"buen dia, la luz de urb. San Andres prende un poco tarde espero respuesta...",libro_reclamaciones,Trujillo - cercado,14,0,0,30,2026-08-21,R. Candiotti,C2 Alumbrado publico,baja
+112,"la luminaria de la av. Larco cuadra 12 está sucia, no es urgente...",app_municipal,Victor Larco Herrera,13,1,0,5,2026-08-02,A. Del Portal,C2 Alumbrado publico,baja
+113,"reitero mi reclamo,, apagaron el alumbrado de urb. Palermo y no lo repusieron, no se ve nada a partir de las siete, por esa acera caminan los ancianos del asilo",app_municipal,Trujillo - cercado,30,0,1,3,2026-01-09,H. Arteaga,C2 Alumbrado publico,alta
+114,"vecinos de la zona reportamos que el poste de la av. Espana está inclinado y a punto de caerse, hay riesgo de electrocucion",facebook,Trujillo - cercado,23,1,0,4,2026-08-21,H. Arteaga,C2 Alumbrado publico,alta
+115,"desde hace 8 dias las luminarias de El Tropico no encienden, ya reportamos a la empresa y nada, por ahi cruzan los escolares a la hora de salida",whatsapp,Huanchaco,28,0,1,8,2026-04-28,H. Arteaga,C2 Alumbrado publico,media
+116,"xfa el poste de el sector E echa chispas, un perro ya se electrocuto ahi ya no sabemos a quien acudir",redaccion_propia,Alto Trujillo,21,1,0,2,2026-07-02,M. Azcarate,C2 Alumbrado publico,alta
+117,el poste de la zona central está inclinado y a punto de caerse,x,Florencia de Mora,13,0,0,1,2026-07-29,R. Candiotti,C2 Alumbrado publico,alta
+118,"QUIERO REPORTAR QUE TODA LA CUADRA DE LA AV. PRINCIPAL ESTA A OSCURAS, LA CALLE ESTA OSCURISIMA LLEVA 8 DIAS ASI",facebook,Salaverry,21,0,0,8,2025-10-23,M. Azcarate,C2 Alumbrado publico,alta
+119,"otra vez hay un cable pelado al alcance de la mano en el balneario, un perro ya se electrocuto ahi ya reclamamos varias veces",redaccion_propia,Huanchaco,24,1,0,1,2026-05-19,H. Arteaga,C2 Alumbrado publico,alta
+120,"toda la cuadra de el ovalo Mansiche esta a oscuras, ya reportamos a la empresa y nada, es la ruta de los chicos del colegio urge una solucion y ademas hay unas bolsas de basura en la esquina de Husares de Junin",facebook,Trujillo - cercado,42,1,1,8,2026-03-30,H. Arteaga,C2 Alumbrado publico,alta
+121,"la luminaria de El Recreo está sucia, no es urgente nadie viene a ver",app_municipal,Trujillo - cercado,14,1,0,15,2026-08-27,R. Candiotti,C2 Alumbrado publico,baja
+122,"reitero mi reclamo, la esquina de la av. Larco quedo totalmente oscura, ya se llevaron un celular ahi",libro_reclamaciones,Trujillo - cercado,18,0,0,5,2026-05-16,H. Arteaga,C2 Alumbrado publico,media
+123,"buen dia, cuelgan cables sueltos sobre la vereda de la av. Espana, echa chispas cuando llueve, ahi mismo funciona un nido van 2 días y nada y ademas faltan podar los arboles de la av. Larco",whatsapp,Trujillo - cercado,36,1,1,2,2026-05-14,R. Candiotti,C2 Alumbrado publico,alta
+124,"la esquina de Monserrate quedo totalmente oscura, da miedo pasar de noche ya reclamamos varias veces y ademas falta señalizar el paradero de urb. Santa Maria",app_municipal,Trujillo - cercado,26,1,0,8,2026-01-14,R. Candiotti,C2 Alumbrado publico,media
+125,sigue igual Nuevo Porvenir,libro_reclamaciones,El Porvenir,4,0,0,2,2026-02-04,H. Arteaga,C2 Alumbrado publico,alta
+126,"SEÑORES DE LA MUNICIPALIDAD, LA ESQUINA DE EL RECREO QUEDO TOTALMENTE OSCURA, DA MIEDO PASAR DE NOCHE ATIENDAN POR FAVOR",libro_reclamaciones,Trujillo - cercado,20,1,0,12,2025-11-02,H. Arteaga,C2 Alumbrado publico,media
+127,"quiero reportar que cuelgan cables sueltos sobre la acera de el puerto, un perro ya se electrocuto ahi, ahi mismo funciona un nido",redaccion_propia,Salaverry,23,1,1,5,2025-12-07,A. Del Portal,C2 Alumbrado publico,alta
+128,"denuncio que hay un cable caido en la campina,, da miedo pasar por debajo, los niños juegan al costado ya reclamamos varias veces",facebook,Moche,23,1,1,1,2026-03-25,M. Azcarate,C2 Alumbrado publico,alta
+129,"toda la cuadra de el comite 12 esta a oscuras,, da miedo pasar de noche, es la ruta de los chicos del colegio espero respuesta...",facebook,Alto Trujillo,25,1,1,7,2025-12-24,H. Arteaga,C2 Alumbrado publico,media
+130,"xfa toda la cuadra de el mercado esta a oscuras, justo al frente hay un colegio atiendan xfa",whatsapp,Florencia de Mora,18,0,1,15,2026-02-23,M. Azcarate,C2 Alumbrado publico,alta
+131,"el foco del poste de la carretera a las huacas parpadea, alumbra pero poquito ya reclamamos varias veces",facebook,Moche,18,0,0,25,2026-07-19,H. Arteaga,C2 Alumbrado publico,baja
+132,"XFA TODA LA CUADRA DE RIO SECO ESTA A OSCURAS, LA CALLE ESTA OSCURISIMA, POR AHI PASAN LOS ESCOLARES DEL COLEGIO OJALA ESTA VEZ MANDEN A ALGUIEN",facebook,El Porvenir,27,0,1,3,2026-03-08,M. Azcarate,C2 Alumbrado publico,media
+133,"se quedo sin luz la vereda de la av. Trujillo, la calle está oscurisima, justo al frente hay un colegio lleva 12 días asi...",facebook,Laredo,24,0,1,12,2026-06-12,A. Del Portal,C2 Alumbrado publico,alta
+134,"la luminaria del parque de Jerusalen está quemada, ya se llevaron un celular ahi",app_municipal,La Esperanza,14,0,0,5,2026-06-19,A. Del Portal,C2 Alumbrado publico,media
+135,"CUELGAN CABLES SUELTOS SOBRE LA VEREDA DE PUEBLO LIBRE,, UN PERRO YA SE ELECTROCUTO AHI YA RECLAMAMOS VARIAS VECES",facebook,La Esperanza,19,1,0,1,2025-10-19,H. Arteaga,C2 Alumbrado publico,alta
+136,"chisporrotea la conexion del poste de Vista Alegre,, un perro ya se electrocuto ahi nadie viene a ver",whatsapp,Victor Larco Herrera,18,1,0,3,2026-03-09,A. Del Portal,C2 Alumbrado publico,alta
+137,"otra vez chisporrotea la conexion del poste de la av. Pumacahua, da miedo pasar por debajo atiendan por favor",facebook,El Porvenir,19,1,0,3,2025-10-04,H. Arteaga,C2 Alumbrado publico,alta
+138,el poste de Husares de Junin echa chispas por favor atiendan...,facebook,Trujillo - cercado,11,1,0,0,2026-01-27,H. Arteaga,C2 Alumbrado publico,alta
+139,"el poste de Las Delicias tiene la tapa del tablero suelta, seria bueno que lo revisen en la proxima ronda el vecindario ya se canso",whatsapp,Moche,25,0,0,15,2026-03-12,H. Arteaga,C2 Alumbrado publico,baja
+140,en Covicorti todo esta destrozado,whatsapp,Trujillo - cercado,5,0,0,3,2026-03-05,M. Azcarate,C2 Alumbrado publico,media
+141,"SEÑORES DE LA MUNICIPALIDAD, EL POSTE DE EL TROPICO ESTA INCLINADO Y A PUNTO DE CAERSE, CUALQUIERA SE PUEDE ENGANCHAR NADIE VIENE A VER...",facebook,Huanchaco,24,0,0,1,2025-11-01,R. Candiotti,C2 Alumbrado publico,alta
+142,"HAY UN CABLE CAIDO EN URB. PALERMO, CUALQUIERA SE PUEDE ENGANCHAR, AHI MISMO FUNCIONA UN NIDO",app_municipal,Trujillo - cercado,16,0,1,3,2026-04-21,H. Arteaga,C2 Alumbrado publico,alta
+143,"el poste de Vista Alegre tiene el cable pelado, hay riesgo de electrocucion ya reclamamos varias veces...",x,Victor Larco Herrera,17,1,0,1,2026-08-26,R. Candiotti,C2 Alumbrado publico,alta
+144,"buen dia, el poste de Villa del Mar tiene la tapa del tablero suelta, no es urgente ojala está vez manden a alguien",facebook,Salaverry,23,1,0,30,2026-05-30,A. Del Portal,C2 Alumbrado publico,media
+145,"la luminaria de Rio Seco alumbra muy poquito, seria bueno que lo revisen en la proxima ronda ya reclamamos varias veces",facebook,El Porvenir,21,0,0,20,2026-03-12,A. Del Portal,C2 Alumbrado publico,baja
+146,"la esquina de urb. Santa Maria quedo totalmente oscura, la calle está oscurisima y ademas hay varios huecos regados en la av. America",x,Trujillo - cercado,23,0,0,5,2025-12-30,A. Del Portal,C2 Alumbrado publico,media
+147,"hay un cable caido en urb. Primavera, da miedo pasar por debajo hasta cuando",facebook,Trujillo - cercado,14,1,0,1,2026-07-15,A. Del Portal,C2 Alumbrado publico,alta
+148,"buen dia, el poste de el sector E tiene el cable pelado, cualquiera se puede enganchar espero respuesta",app_municipal,Alto Trujillo,18,0,0,4,2026-08-24,M. Azcarate,C2 Alumbrado publico,alta
+149,"quiero  reportar que las luminarias de urb. Santa Maria no encienden,, da miedo pasar de noche lleva 7 días asi...",x,Trujillo - cercado,20,1,0,7,2026-05-03,R. Candiotti,C2 Alumbrado publico,media
+150,"POR FAVOR LA ESQUINA DE SANTA VERONICA QUEDO TOTALMENTE OSCURA,, YA REPORTAMOS A LA EMPRESA Y NADA NADIE VIENE A VER",x,La Esperanza,21,0,0,12,2026-04-11,R. Candiotti,C2 Alumbrado publico,media
+151,"ya es el colmo, el foco del poste de Covicorti parpadea, seria bueno que lo revisen en la proxima ronda nadie viene a ver y ademas la vereda de urb. Santa Maria tiene rajaduras finitas",libro_reclamaciones,Trujillo - cercado,35,0,0,60,2026-03-02,R. Candiotti,C2 Alumbrado publico,media
+152,"vecinos de la zona reportamos que el poste de urb. Primavera está inclinado y a punto de caerse, cualquiera se puede enganchar van 5 días y nada",whatsapp,Trujillo - cercado,27,0,0,5,2026-05-30,H. Arteaga,C2 Alumbrado publico,alta
+153,el ovalo Mansiche esta en pesimo estado,libro_reclamaciones,Trujillo - cercado,7,0,0,30,2026-07-05,H. Arteaga,C2 Alumbrado publico,media
+154,"POR FAVOR LA LUZ DE ALTO MOCHICA PRENDE UN POCO TARDE, NO ES URGENTE VAN 45 DÍAS Y NADA",app_municipal,El Porvenir,19,1,0,45,2026-08-14,R. Candiotti,C2 Alumbrado publico,baja
+155,"BUENAS TARDES, SE VINO ABAJO EL POSTE DE MENOCUCHO, HAY RIESGO DE ELECTROCUCION, LOS NIÑOS JUEGAN AL COSTADO",facebook,Laredo,18,1,1,1,2026-02-19,H. Arteaga,C2 Alumbrado publico,alta
+156,"el poste de Villa del Mar tiene el cable pelado, un perro ya se electrocuto ahi",libro_reclamaciones,Huanchaco,16,1,0,4,2026-07-20,H. Arteaga,C2 Alumbrado publico,alta
+157,POR FAVOR EL POSTE DE URB. PALERMO ECHA CHISPAS,facebook,Trujillo - cercado,9,1,0,1,2026-06-09,M. Azcarate,C2 Alumbrado publico,alta
+158,"ya es el colmo, el poste de urb. Santa Maria echa chispas, cualquiera se puede enganchar, al lado hay una posta medica van 5 dias y nada",app_municipal,Trujillo - cercado,27,1,0,5,2025-12-09,M. Azcarate,C2 Alumbrado publico,alta
+159,"SEÑORES DE LA MUNI,, HAY UN CABLE COLGANDO BIEN BAJITO EN MONSERRATE, ECHA CHISPAS CUANDO LLUEVE ATIENDAN POR FAVOR",facebook,Trujillo - cercado,19,1,0,2,2026-05-31,A. Del Portal,C2 Alumbrado publico,alta
+160,"buenas tardes, el poste de Covicorti esta apagado, la calle esta oscurisima ya reclamamos varias veces...",whatsapp,Trujillo - cercado,16,0,0,3,2025-10-05,H. Arteaga,C2 Alumbrado publico,media
+161,"señores de la muni, chisporrotea la conexion del poste de el sector I el vecindario ya se canso",app_municipal,Alto Trujillo,18,0,0,0,2025-10-04,A. Del Portal,C2 Alumbrado publico,alta
+162,"señores  de la muni, la esquina de el sector I quedo totalmente oscura, ya se llevaron un celular ahi urge una solucion",redaccion_propia,Alto Trujillo,22,1,0,8,2026-08-04,H. Arteaga,C2 Alumbrado publico,media
+163,otra vez lo mismo en urb. El Golf,x,Victor Larco Herrera,8,0,0,25,2026-03-03,R. Candiotti,C2 Alumbrado publico,baja
+164,"buenos dias, la luminaria de la carretera a las huacas alumbra muy poquito, seria bueno que lo revisen en la proxima ronda hasta cuando",facebook,Moche,24,0,0,60,2026-02-28,H. Arteaga,C2 Alumbrado publico,baja
+165,"denuncio que hay un cable pelado al alcance de la mano en Jerusalen,, da miedo pasar por debajo el vecindario ya se canso",redaccion_propia,La Esperanza,23,1,0,1,2026-05-23,R. Candiotti,C2 Alumbrado publico,alta
+166,hay un problema serio en la campina,app_municipal,Moche,7,0,0,15,2026-04-10,M. Azcarate,C2 Alumbrado publico,alta
+167,"no prende el alumbrado de el mercado, ya se llevaron un celular ahi espero respuesta",app_municipal,Florencia de Mora,15,0,0,2,2026-03-22,H. Arteaga,C2 Alumbrado publico,media
+168,xfa la luminaria de la av. principal alumbra muy poquito!!,x,Salaverry,10,0,0,20,2025-10-20,H. Arteaga,C2 Alumbrado publico,baja
+169,"ya es el colmo, el foco del poste de Las Quintanas parpadea, alumbra pero poquito lleva 10 días asi",facebook,Trujillo - cercado,19,0,0,10,2025-11-21,A. Del Portal,C2 Alumbrado publico,media
+170,"reitero mi reclamo, la luminaria de Rio Seco esta sucia, alumbra pero poquito por favor atiendan y ademas la gente bota basura a cualquier hora en la av. Pumacahua",facebook,El Porvenir,29,0,0,10,2026-07-08,H. Arteaga,C2 Alumbrado publico,baja
+171,otra vez lo mismo en el sector E,x,Alto Trujillo,8,0,0,3,2026-03-01,A. Del Portal,C2 Alumbrado publico,alta
+172,las luminarias de Monserrate no encienden!! y ademas hay desmonte tirado en la av. Larco,redaccion_propia,Trujillo - cercado,15,0,0,2,2026-08-15,A. Del Portal,C2 Alumbrado publico,media
+173,"señores de la muni, el poste de Monserrate tiene la tapa del tablero suelta, no es urgente espero respuesta...",redaccion_propia,Trujillo - cercado,19,1,0,10,2025-12-21,M. Azcarate,C2 Alumbrado publico,baja
+174,"reitero mi reclamo,, las luminarias de Menocucho no encienden, la calle esta oscurisima...",app_municipal,Laredo,13,0,0,5,2026-07-23,R. Candiotti,C2 Alumbrado publico,media
+175,"desde hace 60 días la luminaria de el centro de Moche está sucia, seria bueno que lo revisen en la proxima ronda",whatsapp,Moche,22,0,0,60,2026-03-14,R. Candiotti,C2 Alumbrado publico,baja
+176,"otra vez no prende el alumbrado de el puerto,, no se ve nada a partir de las siete",x,Salaverry,18,0,0,12,2026-07-13,M. Azcarate,C2 Alumbrado publico,media
+177,"otra vez el poste de Villa del Mar esta inclinado y a punto de caerse, cualquiera se puede enganchar hasta cuando",whatsapp,Huanchaco,21,0,0,2,2026-01-22,M. Azcarate,C2 Alumbrado publico,alta
+178,"ya es el colmo, el poste de Liberacion Social está apagado",libro_reclamaciones,Victor Larco Herrera,11,0,0,10,2025-11-25,H. Arteaga,C2 Alumbrado publico,media
+179,"buen dia, los cables de la plaza de Laredo quedaron tirados en el suelo, da miedo pasar por debajo, los niños juegan al costado van 5 dias y nada",libro_reclamaciones,Laredo,29,1,1,5,2026-08-07,A. Del Portal,C2 Alumbrado publico,alta
+180,las luminarias de Las Delicias no encienden,libro_reclamaciones,Moche,7,0,0,8,2026-07-11,R. Candiotti,C2 Alumbrado publico,media
+181,"el poste de urb. Santa Maria tiene el cable pelado, da miedo pasar por debajo atiendan por favor",app_municipal,Trujillo - cercado,18,1,0,2,2026-05-05,M. Azcarate,C2 Alumbrado publico,alta
+182,"señores de la muni, no prende el alumbrado de urb. Palermo, la calle sta oscurisima",libro_reclamaciones,Trujillo - cercado,15,0,0,2,2026-07-15,R. Candiotti,C2 Alumbrado publico,media
+183,"quiero reportar que el poste de el comite 12 tiene la tapa del tablero suelta, seria bueno que lo revisen en la proxima ronda ya no sabemos a quien acudir",facebook,Alto Trujillo,30,0,0,5,2026-08-21,A. Del Portal,C2 Alumbrado publico,baja
+184,"buenos días, el poste de Alto Mochica tiene la tapa del tablero suelta, seria bueno que lo revisen en la proxima ronda ojala está vez manden a alguien",facebook,El Porvenir,28,0,0,25,2025-12-19,M. Azcarate,C2 Alumbrado publico,media
+185,"buenos días, hay un cable caido en la plaza de Laredo, echa chispas cuando llueve ojala está vez manden a alguien...",facebook,Laredo,21,1,0,2,2026-03-19,A. Del Portal,C2 Alumbrado publico,alta
+186,"por favor las luminarias de Huerta Grande no encienden, ya reportamos a la empresa y nada",redaccion_propia,Victor Larco Herrera,16,0,0,2,2026-04-10,H. Arteaga,C2 Alumbrado publico,media
+187,El Recreo esta en pesimo estado,libro_reclamaciones,Trujillo - cercado,6,0,0,10,2026-05-11,M. Azcarate,C2 Alumbrado publico,media
+188,"señores de la muni, el foco del poste de el sector B parpadea, alumbra pero poquito ya no sabemos a quien acudir",facebook,Alto Trujillo,22,0,0,5,2025-10-04,M. Azcarate,C2 Alumbrado publico,baja
+189,"vecinos de la zona reportamos que la luminaria de la av. 26 de Marzo está sucia, no es urgente...",facebook,Florencia de Mora,19,1,0,10,2026-04-19,A. Del Portal,C2 Alumbrado publico,baja
+190,"vecinos de la zona reportamos que el foco del poste de El Recreo parpadea, seria bueno que lo revisen en la proxima ronda espero respuesta",x,Trujillo - cercado,25,0,0,15,2026-08-27,R. Candiotti,C6 Señalizacion y semaforos,baja
+191,"DESDE HACE 2 DIAS EL POSTE DE URB. PRIMAVERA TIENE EL CABLE PELADO,, UN PERRO YA SE ELECTROCUTO AHI LLEVA 2 DIAS ASI",facebook,Trujillo - cercado,23,1,0,2,2025-12-05,R. Candiotti,C2 Alumbrado publico,alta
+192,"buen dia, los cables de Buenos Aires quedaron tirados en el suelo, da miedo pasar por debajo...",facebook,Victor Larco Herrera,17,1,0,2,2026-08-25,H. Arteaga,C2 Alumbrado publico,alta
+193,nadie atiende Huanchaquito,redaccion_propia,Huanchaco,3,0,0,15,2025-11-09,M. Azcarate,C2 Alumbrado publico,media
+194,"hay un cable pelado al alcance de la mano en el balneario, un perro ya se electrocuto ahi atiendan por favor...",facebook,Huanchaco,21,1,0,4,2026-04-05,M. Azcarate,C2 Alumbrado publico,alta
+195,"LA  LUMINARIA DE LA AV. FATIMA ALUMBRA MUY POQUITO, SERIA BUENO QUE LO REVISEN EN LA PROXIMA RONDA VAN 60 DIAS Y NADA",facebook,Trujillo - cercado,23,0,0,60,2026-04-03,H. Arteaga,C2 Alumbrado publico,baja
+196,"señores de la muni, gotea permanentemente la conexion de la plaza de Laredo, ya reportamos varias veces ya no sabemos a quien acudir...",redaccion_propia,Laredo,23,0,0,10,2026-01-23,H. Arteaga,C3 Agua y desague,media
+197,por favor gotea permanentemente la conexion de El Tropico,facebook,Huanchaco,9,0,0,15,2026-03-19,M. Azcarate,C3 Agua y desague,media
+198,"buenos dias,, se atoro el desague del pasaje de el comite 12, se desperdicia agua todo el dia",x,Alto Trujillo,18,0,0,5,2026-07-16,M. Azcarate,C3 Agua y desague,media
+199,"buenos dias, la caja de agua de la zona central esta sin tapa pero es superficial ya reclamamos varias veces",facebook,Florencia de Mora,20,0,0,60,2026-03-25,H. Arteaga,C3 Agua y desague,baja
+200,Alto Mochica esta en pesimo estado,app_municipal,El Porvenir,6,0,0,15,2025-11-30,M. Azcarate,C3 Agua y desague,baja
+201,vengan a ver el comite 12,redaccion_propia,Alto Trujillo,6,0,0,12,2026-07-22,M. Azcarate,C3 Agua y desague,media
+202,"gotea permanentemente la conexion de urb. San Andres, se desperdicia agua todo el dia, por ahi pasan los escolares del colegio ojala está vez manden a alguien",facebook,Trujillo - cercado,27,0,1,3,2026-07-02,H. Arteaga,C3 Agua y desague,alta
+203,"denuncio que gotea permanentemente la conexion de la av. Larco cuadra 12,, no alcanza ni para llenar el tanque, ahi mismo funciona un nido atiendan por favor...",whatsapp,Victor Larco Herrera,27,0,1,7,2025-12-22,M. Azcarate,C3 Agua y desague,alta
+204,"REITERO MI RECLAMO,, EL DESAGÜE ESTÁ REBALSANDO EN WICHANZAO EL VECINDARIO YA SE CANSO",app_municipal,La Esperanza,14,0,0,0,2026-06-24,A. Del Portal,C3 Agua y desague,alta
+205,"hace 60 días que el buzon de el puerto está hundido unos centimetros, es un detalle nomás gracias",x,Salaverry,18,0,0,60,2025-10-01,R. Candiotti,C3 Agua y desague,baja
+206,vengan a ver la av. principal,facebook,Salaverry,6,0,0,3,2026-01-08,H. Arteaga,C3 Agua y desague,alta
+207,"gotea permanentemente la conexion de Miguel Grau, ya reportamos varias veces ojala esta vez manden a alguien",app_municipal,El Porvenir,17,0,0,12,2026-02-02,A. Del Portal,C3 Agua y desague,media
+208,"por favor la tapa del buzon de Santa Veronica quedo mal nivelada, es un detalle nomas ya reclamamos varias veces",facebook,La Esperanza,20,0,0,10,2026-04-23,A. Del Portal,C3 Agua y desague,baja
+209,"buenas tardes, el buzon de Rio Seco esta abierto y sin señalizacion van 5 dias y nada",app_municipal,El Porvenir,17,0,0,5,2025-12-19,M. Azcarate,C1 Vias y veredas,alta
+210,"buen dia, se rompio la matriz en Menocucho, el agua se mete a las casas urge una solucion",facebook,Laredo,18,1,0,0,2026-05-05,H. Arteaga,C3 Agua y desague,alta
+211,"hay una fuga de agua en la vereda de Husares de Junin, no alcanza ni pa llenar el tanque",app_municipal,Trujillo - cercado,19,0,0,5,2026-08-10,A. Del Portal,C3 Agua y desague,media
+212,"buen dia, se empoza el agua en urb. Palermo, por ahi cruzan los escolares a la hora de salida ya reclamamos varias veces",whatsapp,Trujillo - cercado,23,0,1,12,2025-12-16,H. Arteaga,C3 Agua y desague,alta
+213,"buenos dias, corren aguas servidas por la acera de urb. San Andres, es un foco infeccioso, justo al frente hay un colegio y ademas el poste de Covicorti esta apagado",redaccion_propia,Trujillo - cercado,30,1,1,1,2026-02-09,A. Del Portal,C3 Agua y desague,alta
+214,otra vez lo mismo en la av. Condorcanqui,x,La Esperanza,8,0,0,2,2026-08-10,H. Arteaga,C3 Agua y desague,alta
+215,"señores de la muni, corren aguas servidas por la vereda de Husares de Junin, es un foco infeccioso lleva 2 dias asi",facebook,Trujillo - cercado,22,1,0,2,2026-02-06,M. Azcarate,C1 Vias y veredas,alta
+216,"quedo el buzon de el jr. Pizarro sin tapa, el agua se mete a las casas",x,Trujillo - cercado,16,0,0,1,2025-12-04,R. Candiotti,C3 Agua y desague,alta
+217,"desde hace 10 días la presion del agua en el balneario está bajisima, sale con tierra lleva 10 días asi",redaccion_propia,Huanchaco,20,0,0,10,2026-05-11,A. Del Portal,C3 Agua y desague,media
+218,"se empoza el agua en Manuel Arevalo, se desperdicia agua todo el dia ojala esta vez manden a alguien...",redaccion_propia,La Esperanza,19,0,0,15,2026-06-02,A. Del Portal,C3 Agua y desague,media
+219,"por favor el buzon de la zona central esta abierto y sin señalizacion, es un foco infeccioso nadie viene a ver...",app_municipal,Florencia de Mora,21,1,0,2,2026-08-10,A. Del Portal,C3 Agua y desague,alta
+220,"señores  de la municipio, hay una fuga de agua en la vereda de el sector I, ya reportamos varias veces, ahi mismo funciona un nido van 12 días y nada",facebook,Alto Trujillo,30,0,1,12,2025-10-08,H. Arteaga,C3 Agua y desague,media
+221,"el desague esta rebalsando en la av. Larco cuadra 12, un carro casi se mete adentro, los niños juegan al costado ya no sabemos a quien acudir",whatsapp,Victor Larco Herrera,27,0,1,5,2026-05-15,R. Candiotti,C3 Agua y desague,alta
+222,"quiero reportar que hay una humedad en la vereda de el puerto, conviene revisarlo nadie viene a ver",redaccion_propia,Salaverry,18,0,0,20,2026-01-20,M. Azcarate,C3 Agua y desague,baja
+223,"buen dia, se socavo la pista por la fuga en la zona alta, un carro casi se mete adentro, por ahi pasan los niños del colegio van 0 días y nada",redaccion_propia,Alto Trujillo,31,0,1,0,2026-08-17,M. Azcarate,C3 Agua y desague,alta
+224,"alguien puede ver que el buzon de urb. California esta abierto y sin señalizacion, es un foco infeccioso lleva 1 dias asi",x,Victor Larco Herrera,22,1,0,1,2026-02-28,H. Arteaga,C3 Agua y desague,alta
+225,desde hace 3 días corren aguas servidas por la vereda de Alto Mochica nadie viene a ver,whatsapp,El Porvenir,17,0,0,3,2025-10-10,A. Del Portal,C3 Agua y desague,alta
+226,"la caja de agua de Miguel Grau está sin tapa pero es superficial,, es un detalle nomás gracias...",facebook,El Porvenir,18,0,0,20,2025-10-17,R. Candiotti,C3 Agua y desague,baja
+227,"alguien puede ver que quedo el buzon de la av. Condorcanqui sin tapa, es un foco infeccioso ya reclamamos varias veces y ademas las bancas del parque de Manuel Arevalo estan despintadas",app_municipal,La Esperanza,32,1,0,0,2026-04-03,H. Arteaga,C3 Agua y desague,alta
+228,"el agua sale turbia en el balneario, se desperdicia agua todo el dia",facebook,Huanchaco,13,0,0,2,2026-07-13,H. Arteaga,C3 Agua y desague,media
+229,"hace 45 dias que el buzon de El Recreo esta hundido unos centimetros, todavia no molesta hasta cuando",redaccion_propia,Trujillo - cercado,18,0,0,45,2026-04-09,H. Arteaga,C3 Agua y desague,baja
+230,otra vez la caja de agua de la zona alta esta sin tapa pero es superficial lleva 45 dias asi,facebook,Alto Trujillo,20,0,0,45,2026-03-03,R. Candiotti,C3 Agua y desague,media
+231,"buen dia,, el desagüe está rebalsando en el centro de Moche, un carro casi se mete adentro, es la ruta de los chicos del colegio ya reclamamos varias veces",whatsapp,Moche,29,0,1,2,2026-06-05,R. Candiotti,C3 Agua y desague,alta
+232,"quiero reportar que hay mal olor a desague en Villa del Mar, el agua se empoza y huele mal atiendan por favor",redaccion_propia,Huanchaco,22,0,0,8,2025-10-06,H. Arteaga,C3 Agua y desague,alta
+233,"OTRA  VEZ QUEDO EL BUZON DE BUENOS AIRES SIN TAPA,, UN CARRO CASI SE METE ADENTRO, LOS CHICOS JUEGAN AL COSTADO OJALA ESTÁ VEZ MANDEN A ALGUIEN",x,Victor Larco Herrera,27,0,1,3,2025-11-13,H. Arteaga,C3 Agua y desague,alta
+234,"BUENAS TARDES, GOTEA PERMANENTEMENTE LA CONEXION DE JERUSALEN, NO ALCANZA NI PARA LLENAR EL TANQUE YA NO SABEMOS A QUIEN ACUDIR",redaccion_propia,La Esperanza,21,0,0,5,2025-11-15,M. Azcarate,C1 Vias y veredas,media
+235,"buenos dias, la tapa del buzon de Wichanzao quedo mal nivelada, todavia no molesta atiendan por favor...",facebook,La Esperanza,17,0,0,30,2026-04-10,R. Candiotti,C3 Agua y desague,baja
+236,nadie atiende la av. 26 de Marzo,facebook,Florencia de Mora,7,0,0,20,2026-07-07,A. Del Portal,C3 Agua y desague,baja
+237,"vecinos de la zona reportamos que gotea permanentemente la conexion de Jerusalen,, se desperdicia agua todo el dia, al lado hay una posta medica urge una solucion",libro_reclamaciones,La Esperanza,27,1,0,2,2025-11-25,M. Azcarate,C3 Agua y desague,media
+238,"BUENOS DIAS, SE EMPOZA EL AGUA EN LAS DELICIAS, SALE CON TIERRA POR FAVOR ATIENDAN",facebook,Moche,15,0,0,12,2026-04-20,R. Candiotti,C3 Agua y desague,media
+239,"xfa quedo el buzon de la av. Larco cuadra 12 sin tapa, todo apesta",whatsapp,Victor Larco Herrera,14,0,0,3,2026-06-24,R. Candiotti,C3 Agua y desague,alta
+240,"buen dia, la presion del agua en la av. America esta bajisima, se desperdicia agua todo el dia ya no sabemos a quien acudir",redaccion_propia,Trujillo - cercado,24,0,0,8,2025-12-14,R. Candiotti,C3 Agua y desague,media
+241,"ya es el colmo, el desagüe de Las Quintanas se atora cada semana, ya reportamos varias veces el vecindario ya se canso",facebook,Trujillo - cercado,22,0,0,5,2025-12-07,R. Candiotti,C3 Agua y desague,alta
+242,"el desague esta rebalsando en la zona central, hay riesgo de que alguien caiga ojala esta vez manden a alguien",facebook,Florencia de Mora,20,1,0,2,2026-01-24,M. Azcarate,C3 Agua y desague,alta
+243,"reitero mi reclamo, baja muy poquita agua en la av. 26 de Marzo, el agua se empoza y huele mal, ahi mismo funciona un nido hasta cuando",whatsapp,Florencia de Mora,27,0,1,12,2026-04-20,M. Azcarate,C3 Agua y desague,media
+244,"se atoro el desagüe del pasaje de urb. San Andres, sale con tierra por favor atiendan",app_municipal,Trujillo - cercado,16,0,0,7,2025-10-28,R. Candiotti,C3 Agua y desague,alta
+245,"gotea permanentemente la conexion de Huanchaquito, no alcanza ni para llenar el tanque nadie viene a ver...",libro_reclamaciones,Huanchaco,17,0,0,3,2025-12-23,M. Azcarate,C3 Agua y desague,media
+246,"xfa quedo el buzon de urb. San Andres sin tapa, un carro casi se mete adentro",facebook,Trujillo - cercado,16,0,0,3,2025-10-27,H. Arteaga,C3 Agua y desague,alta
+247,hay una fuga de agua en la acera de Huerta Grande urge una solucion!!,app_municipal,Victor Larco Herrera,14,1,0,8,2026-04-28,H. Arteaga,C3 Agua y desague,media
+248,"el  desague esta rebalsando en la av. Pumacahua, todo apesta",x,El Porvenir,10,0,0,2,2025-12-31,R. Candiotti,C3 Agua y desague,alta
+249,"xfa el buzon de Liberacion Social esta hundido unos centimetros,, conviene revisarlo...",facebook,Victor Larco Herrera,12,0,0,30,2026-04-30,R. Candiotti,C3 Agua y desague,media
+250,denuncio que la caja de agua de la av. Espana esta sin tapa pero es superficial el vecindario ya se canso,app_municipal,Trujillo - cercado,21,0,0,60,2026-08-20,H. Arteaga,C1 Vias y veredas,baja
+251,"se atoro el desague del pasaje de Villa del Mar, no alcanza ni para llenar el tanque por favor atiendan",facebook,Huanchaco,20,0,0,8,2026-01-12,A. Del Portal,C3 Agua y desague,media
+252,"buen  dia, hay una fuga de agua en la vereda de El Tropico, ya reportamos varias veces",facebook,Huanchaco,17,0,0,10,2025-12-19,H. Arteaga,C3 Agua y desague,media
+253,"alguien puede ver q se empoza el agua en Las Delicias, el agua se empoza y huele mal, es la ruta de los chicos del colegio",app_municipal,Moche,26,0,1,2,2026-01-04,M. Azcarate,C3 Agua y desague,media
+254,"denuncio que hay una humedad en la vereda de Huerta Grande,, todavia no molestá por favor atiendan...",whatsapp,Victor Larco Herrera,17,0,0,25,2026-06-14,R. Candiotti,C3 Agua y desague,baja
+255,hay un buzon destapado en Vista Alegre por favor atiendan...,libro_reclamaciones,Victor Larco Herrera,10,0,0,2,2026-08-01,M. Azcarate,C3 Agua y desague,alta
+256,"buenas tardes, el agua sale turbia en la av. Condorcanqui, se desperdicia agua todo el dia gracias",redaccion_propia,La Esperanza,17,0,0,8,2026-07-14,M. Azcarate,C3 Agua y desague,media
+257,"DESDE HACE 3 DIAS CORREN AGUAS SERVIDAS POR LA VEREDA DE ALTO MOCHICA,, UN CARRO CASI SE METE ADENTRO, ES LA RUTA DE LOS CHICOS DEL COLEGIO LLEVA 3 DIAS ASI",app_municipal,El Porvenir,31,0,1,3,2026-07-31,H. Arteaga,C3 Agua y desague,alta
+258,"otra vez la caja de agua de la av. Larco cuadra 12 esta sin tapa pero es superficial, es un detalle nomas gracias",app_municipal,Victor Larco Herrera,23,0,0,60,2026-04-05,H. Arteaga,C3 Agua y desague,baja
+259,"otra vez el desagüe está rebalsando en la zona alta,, todo apestá nadie viene a ver y ademas el pasaje de el sector E sigue sin asfaltar",facebook,Alto Trujillo,27,0,0,3,2025-11-06,A. Del Portal,C3 Agua y desague,alta
+260,"quiero reportar que gotea permanentemente la conexion de Pueblo Libre, no alcanza ni para llenar el tanque por favor atiendan",facebook,La Esperanza,20,0,0,7,2025-11-09,H. Arteaga,C3 Agua y desague,media
+261,"vecinos de la zona reportamos que hay una fuga fuerte de agua en Nuevo Porvenir,, el agua se mete a las casas, justo al frente hay un colegio espero respuesta...",whatsapp,El Porvenir,30,0,1,3,2025-10-01,R. Candiotti,C3 Agua y desague,alta
+262,"denuncio que la tapa del buzon de Las Quintanas esta floja y suena, conviene revisarlo el vecindario ya se canso",redaccion_propia,Trujillo - cercado,20,0,0,60,2026-02-28,M. Azcarate,C3 Agua y desague,media
+263,"xfa el agua sale turbia en el centro de Moche, los escolares juegan al costado espero respuesta",facebook,Moche,17,0,1,10,2025-12-04,R. Candiotti,C3 Agua y desague,media
+264,"otra vez hay una fuga fuerte de agua en la av. Espana, hay riesgo de que alguien caiga el vecindario ya se canso",x,Trujillo - cercado,23,1,0,1,2025-10-04,H. Arteaga,C3 Agua y desague,alta
+265,alguien puede ver que el buzon de Las Quintanas esta hundido unos centimetros!!,whatsapp,Trujillo - cercado,13,0,0,30,2026-02-21,H. Arteaga,C3 Agua y desague,baja
+266,"denuncio que hay una fuga de agua en la vereda de Covicorti, sale con tierra",redaccion_propia,Trujillo - cercado,15,0,0,7,2026-02-28,A. Del Portal,C3 Agua y desague,media
+267,"vecinos de la zona reportamos que el desagüe de Covicorti rebalso hasta la pista, es un foco infeccioso, por esa vereda caminan los ancianos del asilo",facebook,Trujillo - cercado,26,1,1,2,2025-11-27,R. Candiotti,C3 Agua y desague,alta
+268,vengan a ver la av. 26 de Marzo,x,Florencia de Mora,8,0,0,5,2026-05-14,R. Candiotti,C3 Agua y desague,media
+269,"reitero mi reclamo, el desagüe está rebalsando en Miguel Grau, el agua se mete a las casas ya no sabemos a quien acudir",facebook,El Porvenir,23,0,0,0,2026-05-18,H. Arteaga,C1 Vias y veredas,alta
+270,"quiero reportar que hay una humedad en la vereda de urb. El Golf, es un detalle nomás urge una solucion",whatsapp,Victor Larco Herrera,20,1,0,30,2026-06-24,A. Del Portal,C3 Agua y desague,baja
+271,"hace 5 dias que el buzon de el sector E esta hundido unos centimetros, todavia no molesta...",facebook,Alto Trujillo,17,0,0,5,2026-08-01,R. Candiotti,C3 Agua y desague,baja
+272,la caja de agua de el sector B está sin tapa pero es superficial nadie viene a ver,x,Alto Trujillo,18,0,0,45,2026-03-15,A. Del Portal,C3 Agua y desague,media
+273,"señores de la municipalidad, se rompio la matriz en El Tropico nadie viene a ver...",facebook,Huanchaco,15,0,0,0,2026-08-26,M. Azcarate,C3 Agua y desague,alta
+274,"el agua sale turbia en el sector B, el agua se empoza y huele mal",app_municipal,Alto Trujillo,15,0,0,3,2026-06-09,H. Arteaga,C3 Agua y desague,media
+275,"reitero mi reclamo, hay mal olor a desague en Liberacion Social",redaccion_propia,Victor Larco Herrera,11,0,0,7,2025-11-16,A. Del Portal,C3 Agua y desague,media
+276,"buenas tardes, baja muy poquita agua en la campina, el agua se empoza y huele mal gracias...",whatsapp,Moche,17,0,0,15,2025-12-11,M. Azcarate,C3 Agua y desague,media
+277,"desde hace 2 dias hay un buzon destapado en urb. Primavera,, hay riesgo de que alguien caiga lleva 2 dias asi...",whatsapp,Trujillo - cercado,21,1,0,2,2026-06-25,H. Arteaga,C3 Agua y desague,alta
+278,"reitero mi reclamo,, la tapa del buzon de la carretera a las huacas está floja y suena, todavia no molesta",facebook,Moche,20,0,0,5,2026-08-09,R. Candiotti,C3 Agua y desague,baja
+279,"xfa baja muy poquita agua en Monserrate, se desperdicia agua todo el dia hasta cuando",facebook,Trujillo - cercado,15,0,0,3,2025-12-28,A. Del Portal,C3 Agua y desague,media
+280,"quedo el buzon de la av. America sin tapa, un carro casi se mete adentro...",facebook,Trujillo - cercado,15,0,0,4,2025-12-31,M. Azcarate,C3 Agua y desague,alta
+281,"HACE 15 DÍAS QUE LA TAPA DEL BUZON DE LA ZONA ALTA ESTÁ FLOJA Y SUENA, CONVIENE REVISARLO LLEVA 15 DÍAS ASI",redaccion_propia,Alto Trujillo,22,0,0,15,2026-08-18,A. Del Portal,C3 Agua y desague,baja
+282,desde hace 7 días gotea permanentemente la conexion de Pueblo Libre ojala está vez manden a alguien,libro_reclamaciones,La Esperanza,17,0,0,7,2026-05-31,H. Arteaga,C3 Agua y desague,media
+283,"otra vez corren aguas servidas por la vereda de Covicorti,, ya socavo la pista...",x,Trujillo - cercado,14,0,0,0,2026-07-24,A. Del Portal,C3 Agua y desague,alta
+284,"buenas tardes, se empoza el agua en El Recreo, se desperdicia agua todo el dia espero respuesta...",x,Trujillo - cercado,17,0,0,7,2026-04-17,A. Del Portal,C3 Agua y desague,media
+285,vengan a ver la av. Condorcanqui,redaccion_propia,La Esperanza,6,0,0,3,2025-12-27,R. Candiotti,C3 Agua y desague,alta
+286,"por favor estan botando residuos de un taller en Pueblo Libre, hay moscas por todos lados ya reclamamos varias veces...",facebook,La Esperanza,20,0,0,5,2025-10-23,M. Azcarate,C4 Residuos solidos,alta
+287,"ya es el colmo,, hay desmonte tirado en la av. 26 de Marzo, los perros abren las bolsas en la noche, por ahi pasan los chicos del colegio por favor atiendan",app_municipal,Florencia de Mora,31,0,1,12,2026-07-26,M. Azcarate,C4 Residuos solidos,media
+288,"quedo el desmonte de una obra en Manuel Arevalo, los carros tienen que esquivar espero respuesta y ademas la señal con el nombre de la calle de Pueblo Libre esta torcida",facebook,La Esperanza,31,0,0,5,2025-11-11,A. Del Portal,C4 Residuos solidos,media
+289,"buenos dias, hay papeles y botellas regados en Barraza, recien de ayer pero mejor avisar ya no sabemos a quien acudir",libro_reclamaciones,Laredo,21,0,0,45,2026-07-25,R. Candiotti,C4 Residuos solidos,baja
+290,sigue igual la zona central,x,Florencia de Mora,5,0,0,25,2025-11-03,R. Candiotti,C4 Residuos solidos,baja
+291,"reitero mi reclamo, hay desmonte tirado en urb. Palermo, los carros tienen que esquivar",x,Trujillo - cercado,14,0,0,8,2026-05-16,M. Azcarate,C4 Residuos solidos,media
+292,otra vez lo mismo en urb. San Andres,x,Trujillo - cercado,8,0,0,10,2026-02-25,M. Azcarate,C4 Residuos solidos,media
+293,se formo un punto critico de basura en Vista Alegre nadie viene a ver,libro_reclamaciones,Victor Larco Herrera,14,0,0,1,2026-03-12,A. Del Portal,C4 Residuos solidos,alta
+294,"otra vez hay una montaña de basura en urb. El Golf, el olor es insoportable hasta cuando",redaccion_propia,Victor Larco Herrera,17,0,0,1,2026-07-21,R. Candiotti,C4 Residuos solidos,alta
+295,"por favor el camión de la basura no pasa por Villa Hermosa, afea toda la cuadra, por ahi pasan los chicos del colegio lleva 3 días asi",facebook,Florencia de Mora,27,0,1,3,2026-07-03,H. Arteaga,C4 Residuos solidos,alta
+296,"alguien puede ver que hay papeles y botellas regados en el sector B, conviene vaciarlo espero respuesta",redaccion_propia,Alto Trujillo,17,0,0,60,2026-07-15,M. Azcarate,C4 Residuos solidos,baja
+297,nadie atiende el mercado,redaccion_propia,Florencia de Mora,4,0,0,4,2025-11-03,H. Arteaga,C4 Residuos solidos,alta
+298,"denuncio que estan botando residuos de un taller en El Recreo, el humo entra a las casas, los chicos juegan al costado ya no sabemos a quien acudir",facebook,Trujillo - cercado,28,0,1,2,2026-08-24,H. Arteaga,C4 Residuos solidos,alta
+299,"hay basura con desmonte y animales muertos en la zona alta, es un foco infeccioso atiendan por favor",facebook,Alto Trujillo,18,1,0,4,2026-06-20,M. Azcarate,C4 Residuos solidos,alta
+300,"ALGUIEN PUEDE VER QUE SE ACUMULA BASURA EN LA ESQUINA DE LA AV. ESPANA, LOS VEHICULOS TIENEN QUE ESQUIVAR, LOS NIÑOS JUEGAN AL COSTADO y ademas el poste de la señal de Las Quintanas esta oxidado",redaccion_propia,Trujillo - cercado,36,0,1,10,2026-03-04,A. Del Portal,C4 Residuos solidos,media
+301,"alguien puede ver que hay unas bolsas de basura en la esquina de la zona alta, no es urgente van 15 días y nada",whatsapp,Alto Trujillo,24,1,0,15,2026-07-14,M. Azcarate,C4 Residuos solidos,media
+302,"vecinos de la zona reportamos que quedo el desmonte de una obra en la av. Condorcanqui, se acumula todos los dias, ahi mismo funciona un nido ojala esta vez manden a alguien...",libro_reclamaciones,La Esperanza,32,0,1,5,2026-01-25,A. Del Portal,C4 Residuos solidos,media
+303,"HAY  UNA MONTAÑA DE BASURA EN EL JR. PIZARRO, EL OLOR ES INSOPORTABLE, JUSTO AL FRENTE HAY UN COLEGIO OJALA ESTA VEZ MANDEN A ALGUIEN",facebook,Trujillo - cercado,25,0,1,4,2025-12-03,R. Candiotti,C4 Residuos solidos,alta
+304,"buen  dia, se acumula basura en la esquina de la carretera a las huacas atiendan por favor",whatsapp,Moche,17,0,0,2,2025-10-08,R. Candiotti,C5 Areas verdes y parques,media
+305,"reitero mi reclamo, el tacho del parque de la av. Larco esta lleno atiendan por favor",facebook,Trujillo - cercado,16,0,0,10,2026-01-25,H. Arteaga,C4 Residuos solidos,baja
+306,"desde hace 1 días se formo un punto critico de basura en la zona central, es un foco infeccioso",redaccion_propia,Florencia de Mora,19,1,0,1,2026-01-24,H. Arteaga,C4 Residuos solidos,alta
+307,"xfa no recogen la basura de la av. principal desde hace dias,, ya lleva varios dias ahi lleva 3 dias asi",whatsapp,Salaverry,21,0,0,3,2025-12-26,M. Azcarate,C4 Residuos solidos,media
+308,"señores de la muni, el contenedor de la av. principal esta rebalsando urge una solucion",app_municipal,Salaverry,15,1,0,12,2025-12-15,H. Arteaga,C4 Residuos solidos,media
+309,"reitero mi reclamo, hay una montaña de basura en urb. San Andres, ya hay ratas y perros escarbando",facebook,Trujillo - cercado,18,0,0,5,2026-06-24,H. Arteaga,C4 Residuos solidos,alta
+310,no recogen la basura de El Recreo desde hace dias!!,facebook,Trujillo - cercado,10,0,0,15,2025-12-30,A. Del Portal,C4 Residuos solidos,media
+311,"desde hace 45 dias quedaron restos de poda en la vereda de urb. Palermo, conviene vaciarlo ya no sabemos a quien acudir",app_municipal,Trujillo - cercado,22,0,0,45,2026-03-30,A. Del Portal,C4 Residuos solidos,baja
+312,QUIERO REPORTAR QUE NO RECOGEN LA BASURA DE URB. PRIMAVERA DESDE HACE DÍAS ESPERO RESPUESTA,facebook,Trujillo - cercado,15,0,0,5,2025-11-13,M. Azcarate,C4 Residuos solidos,media
+313,"ya es el colmo,, quedo el desmonte de una obra en la av. America, ya lleva varios días ahi urge una solucion",facebook,Trujillo - cercado,22,1,0,10,2026-06-08,M. Azcarate,C4 Residuos solidos,media
+314,"buenas tardes,, hay papeles y botellas regados en la zona alta, no es urgente van 15 dias y nada",facebook,Alto Trujillo,19,1,0,15,2026-07-21,H. Arteaga,C4 Residuos solidos,baja
+315,sigue igual Nuevo Porvenir,facebook,El Porvenir,4,0,0,1,2026-04-24,A. Del Portal,C4 Residuos solidos,alta
+316,"otra vez quedaron restos de poda en la vereda de Jerusalen, conviene vaciarlo urge una solucion",app_municipal,La Esperanza,16,1,0,15,2026-04-05,H. Arteaga,C4 Residuos solidos,baja
+317,"buenas tardes, la basura de urb. Santa Maria ya atrajo ratas y moscas el vecindario ya se canso",facebook,Trujillo - cercado,18,0,0,2,2026-02-03,A. Del Portal,C4 Residuos solidos,alta
+318,"buenos días, se acumula basura en la esquina de Santa Veronica, los carros tienen que esquivar, por esa vereda caminan los ancianos del asilo...",redaccion_propia,La Esperanza,24,0,1,2,2025-11-16,H. Arteaga,C4 Residuos solidos,media
+319,quedaron restos de poda en la acera de la av. Victor Larco hasta cuando...,facebook,Huanchaco,14,0,0,25,2026-04-28,A. Del Portal,C4 Residuos solidos,media
+320,"la  gente bota basura a cualquier hora en Las Quintanas, los perros abren las bolsas en la noche atiendan por favor",whatsapp,Trujillo - cercado,21,0,0,3,2025-10-28,R. Candiotti,C4 Residuos solidos,media
+321,otra vez lo mismo en Nuevo Porvenir,libro_reclamaciones,El Porvenir,7,0,0,3,2025-10-18,A. Del Portal,C4 Residuos solidos,media
+322,"buenos dias, hay desechos de construccion tapando media via en Huanchaquito urge una solucion",facebook,Huanchaco,14,1,0,5,2025-10-27,R. Candiotti,C4 Residuos solidos,alta
+323,"el tacho del parque de Jerusalen está lleno, no es urgente nadie viene a ver...",x,La Esperanza,15,1,0,45,2026-03-13,H. Arteaga,C4 Residuos solidos,baja
+324,"xfa hay bolsas rotas regadas en la vereda de la carretera a las huacas, ya lleva varios dias ahi espero respuesta",redaccion_propia,Moche,21,0,0,5,2026-01-10,A. Del Portal,C4 Residuos solidos,media
+325,"buen dia, el tacho del parque de el centro de Moche está lleno, no es urgente",facebook,Moche,16,1,0,25,2026-01-13,R. Candiotti,C4 Residuos solidos,media
+326,nadie atiende Buenos Aires,facebook,Victor Larco Herrera,4,0,0,5,2026-07-26,H. Arteaga,C4 Residuos solidos,media
+327,en la av. Fatima todo esta destrozado,whatsapp,Trujillo - cercado,7,0,0,3,2025-10-24,M. Azcarate,C4 Residuos solidos,alta
+328,arreglen Pueblo Libre por favor,app_municipal,La Esperanza,5,0,0,12,2025-12-12,A. Del Portal,C4 Residuos solidos,media
+329,"señores de la muni, hay desechos de construccion tapando media via en urb. California, es un foco infeccioso ojala está vez manden a alguien",whatsapp,Victor Larco Herrera,24,1,0,5,2025-10-28,R. Candiotti,C4 Residuos solidos,alta
+330,"se formo un punto critico de basura en la av. America, el olor es insoportable, ahi mismo funciona un nido lleva 0 días asi",facebook,Trujillo - cercado,24,0,1,0,2025-11-17,R. Candiotti,C4 Residuos solidos,alta
+331,"quiero  reportar que se acumula basura en la esquina de la av. America, los vehiculos tienen que esquivar, ahi mismo funciona un nido",app_municipal,Trujillo - cercado,23,0,1,7,2026-06-03,H. Arteaga,C4 Residuos solidos,media
+332,"buen dia, hay papeles y botellas regados en la plaza de Laredo",app_municipal,Laredo,12,0,0,60,2025-11-17,H. Arteaga,C4 Residuos solidos,baja
+333,"reitero mi reclamo, el contenedor de la av. Fatima esta rebalsando, ya lleva varios dias ahi, por ahi cruzan los escolares a la hora de salida el vecindario ya se canso",x,Trujillo - cercado,31,0,1,3,2026-01-11,H. Arteaga,C4 Residuos solidos,alta
+334,"ya es el colmo, la gente bota basura a cualquier hora en Las Delicias el vecindario ya se canso",redaccion_propia,Moche,19,0,0,12,2026-06-27,M. Azcarate,C4 Residuos solidos,media
+335,"hace 8 días q se acumula basura en la esquina de la av. Condorcanqui, se acumula todos los días el vecindario ya se canso",app_municipal,La Esperanza,24,0,0,8,2026-07-19,A. Del Portal,C4 Residuos solidos,media
+336,"denuncio que se acumula basura en la esquina de el jr. Pizarro, ya lleva varios dias ahi, los niños juegan al costado hasta cuando",facebook,Trujillo - cercado,24,0,1,3,2026-01-03,M. Azcarate,C4 Residuos solidos,media
+337,"buenos dias, hay unas bolsas de basura en la esquina de la av. principal, recien de ayer pero mejor avisar van 5 dias y nada",whatsapp,Salaverry,25,0,0,5,2026-08-12,A. Del Portal,C4 Residuos solidos,baja
+338,"el tacho del parque de el comite 12 esta lleno,, recien de ayer pero mejor avisar por favor atiendan",app_municipal,Alto Trujillo,19,0,0,15,2025-11-14,A. Del Portal,C4 Residuos solidos,baja
+339,otra vez el tacho del parque de Santa Veronica esta lleno van 10 dias y nada,facebook,La Esperanza,16,0,0,10,2025-10-05,M. Azcarate,C4 Residuos solidos,baja
+340,"vecinos de la zona reportamos q hay unas bolsas de basura en la esquina de Huanchaquito, no es urgente van 25 días y nada...",x,Huanchaco,24,1,0,25,2026-05-31,M. Azcarate,C4 Residuos solidos,baja
+341,"otra vez se acumula basura en la esquina de Miguel Grau, los perros abren las bolsas en la noche ya reclamamos varias veces",app_municipal,El Porvenir,23,0,0,12,2026-02-28,H. Arteaga,C4 Residuos solidos,alta
+342,"hay bolsas rotas regadas en la acera de El Tropico, los vehiculos tienen que esquivar nadie viene a ver",facebook,Huanchaco,19,0,0,5,2025-12-21,R. Candiotti,C4 Residuos solidos,media
+343,"quiero reportar que el contenedor de el jr. Pizarro esta rebalsando, los perros abren las bolsas en la noche atiendan por favor",app_municipal,Trujillo - cercado,22,0,0,12,2025-11-23,M. Azcarate,C4 Residuos solidos,media
+344,"alguien puede ver que hay desmonte tirado en el balneario, los carros tienen que esquivar nadie viene a ver",whatsapp,Huanchaco,19,0,0,3,2025-12-02,R. Candiotti,C4 Residuos solidos,alta
+345,"por favor hay bolsas rotas regadas en la vereda de el puerto, los carros tienen que esquivar, los niños juegan al costado",libro_reclamaciones,Salaverry,22,0,1,15,2025-10-16,H. Arteaga,C4 Residuos solidos,alta
+346,"xfa hay desechos de construccion tapando media via en la av. 26 de Marzo,, por ahi pasan los niños del colegio",app_municipal,Florencia de Mora,21,0,1,1,2026-03-01,H. Arteaga,C4 Residuos solidos,alta
+347,hay bolsas rotas regadas en la vereda de la campina espero respuesta,libro_reclamaciones,Moche,12,0,0,10,2026-01-10,A. Del Portal,C4 Residuos solidos,media
+348,"quiero reportar que hay basura con desmonte y animales muertos en Husares de Junin, ya se está tapando el canal nadie viene a ver",x,Trujillo - cercado,24,0,0,4,2026-06-16,M. Azcarate,C4 Residuos solidos,alta
+349,"otra vez hay unas bolsas de basura en la esquina de Husares de Junin, recien de ayer pero mejor avisar gracias",redaccion_propia,Trujillo - cercado,21,0,0,10,2026-08-18,R. Candiotti,C4 Residuos solidos,media
+350,"hay  desmonte tirado en Liberacion Social, afea toda la cuadra, es la ruta de los chicos del colegio el vecindario ya se canso",libro_reclamaciones,Victor Larco Herrera,23,0,1,12,2026-04-25,H. Arteaga,C4 Residuos solidos,alta
+351,"otra  vez se acumula basura en la esquina de Nuevo Porvenir, los perros abren las bolsas en la noche",facebook,El Porvenir,19,0,0,15,2026-07-14,A. Del Portal,C4 Residuos solidos,media
+352,"alguien puede ver que botan desmonte al canal de Nuevo Porvenir, el humo entra a las casas, por esa vereda caminan los ancianos del asilo gracias",facebook,El Porvenir,26,0,1,1,2026-06-08,M. Azcarate,C4 Residuos solidos,alta
+353,"reitero mi reclamo, botan desmonte al canal de la av. Pumacahua, es un foco infeccioso",facebook,El Porvenir,15,1,0,0,2026-08-16,H. Arteaga,C4 Residuos solidos,alta
+354,"buen  dia, hay bolsas rotas regadas en la vereda de urb. Palermo, los perros abren las bolsas en la noche gracias",app_municipal,Trujillo - cercado,21,0,0,2,2026-01-05,H. Arteaga,C4 Residuos solidos,media
+355,"desde  hace 2 días el contenedor de el centro de Moche está rebalsando, afea toda la cuadra hasta cuando",app_municipal,Moche,19,0,0,2,2026-04-14,A. Del Portal,C4 Residuos solidos,media
+356,"BUENOS DÍAS, SE FORMO UN PUNTO CRITICO DE BASURA EN EL JR. PIZARRO, YA HAY RATAS Y PERROS ESCARBANDO, LOS NIÑOS JUEGAN AL COSTADO...",facebook,Trujillo - cercado,24,0,1,1,2025-12-01,M. Azcarate,C4 Residuos solidos,alta
+357,"ya es el colmo, estan quemando basura en urb. Primavera, es un foco infeccioso",libro_reclamaciones,Trujillo - cercado,14,1,0,2,2026-02-04,R. Candiotti,C4 Residuos solidos,alta
+358,"desde hace 7 dias no recogen la basura de Nuevo Porvenir desde hace dias,, los perros abren las bolsas en la noche el vecindario ya se canso",libro_reclamaciones,El Porvenir,27,0,0,7,2025-12-25,M. Azcarate,C4 Residuos solidos,media
+359,"la basura de Menocucho ya atrajo ratas y moscas, por esa vereda caminan los ancianos del asilo nadie viene a ver",redaccion_propia,Laredo,21,0,1,2,2026-01-16,A. Del Portal,C4 Residuos solidos,alta
+360,"VECINOS DE LA ZONA REPORTAMOS QUE HAY PAPELES Y BOTELLAS REGADOS EN BARRAZA, NO ES URGENTE HASTA CUANDO",libro_reclamaciones,Laredo,18,1,0,20,2026-04-30,H. Arteaga,C4 Residuos solidos,baja
+361,"ALGUIEN PUEDE VER QUE HAY UNAS BOLSAS DE BASURA EN LA ESQUINA DE BUENOS AIRES, NO ES URGENTE ESPERO RESPUESTA",x,Victor Larco Herrera,20,1,0,60,2026-01-22,M. Azcarate,C4 Residuos solidos,baja
+362,por favor hay papeles y botellas regados en Liberacion Social ya reclamamos varias veces!!,facebook,Victor Larco Herrera,14,0,0,10,2026-08-23,H. Arteaga,C4 Residuos solidos,baja
+363,"buen dia, estan quemando basura en Las Delicias, hay moscas por todos lados, por esa vereda caminan los ancianos del asilo ya reclamamos varias veces",facebook,Moche,25,0,1,1,2026-07-14,H. Arteaga,C4 Residuos solidos,alta
+364,"alguien puede ver que botan desmonte al canal de la plaza de Laredo, ya se esta tapando el canal ojala esta vez manden a alguien",facebook,Laredo,25,0,0,3,2026-01-08,A. Del Portal,C4 Residuos solidos,alta
+365,"hay basura con desmonte y animales muertos en el centro de Moche, es un foco infeccioso",facebook,Moche,16,1,0,2,2026-01-31,A. Del Portal,C4 Residuos solidos,alta
+366,"estan  quemando basura en Villa del Mar, ya se está tapando el canal, por ahi pasan los escolares del colegio espero respuesta",libro_reclamaciones,Huanchaco,22,0,1,2,2026-07-14,M. Azcarate,C4 Residuos solidos,alta
+367,"vecinos de la zona reportamos que el camión de la basura no pasa por Huanchaquito, ya lleva varios días ahi",facebook,Huanchaco,20,0,0,12,2026-08-01,M. Azcarate,C4 Residuos solidos,media
+368,"por favor la gente bota basura a cualquier hora en la av. Victor Larco, afea toda la cuadra",app_municipal,Huanchaco,18,0,0,8,2026-07-05,R. Candiotti,C4 Residuos solidos,alta
+369,"hay una montaña de basura en Pueblo Libre, hay moscas por todos lados ya reclamamos varias veces",redaccion_propia,La Esperanza,17,0,0,3,2025-11-05,A. Del Portal,C4 Residuos solidos,alta
+370,"hay desechos de construccion tapando media via en el comite 12, ya hay ratas y perros escarbando van 3 días y nada",whatsapp,Alto Trujillo,22,0,0,3,2026-03-19,H. Arteaga,C4 Residuos solidos,alta
+371,"otra vez estan quemando basura en Huerta Grande, ya se esta tapando el canal, por esa vereda caminan los ancianos del asilo por favor atiendan",facebook,Victor Larco Herrera,25,0,1,0,2025-12-29,A. Del Portal,C4 Residuos solidos,alta
+372,"hay desmonte tirado en el ovalo Mansiche, los perros abren las bolsas en la noche hasta cuando",whatsapp,Trujillo - cercado,17,0,0,5,2026-08-16,H. Arteaga,C4 Residuos solidos,media
+373,"vecinos de la zona reportamos que quedaron restos de poda en la vereda de la av. America, no es urgente el vecindario ya se canso",facebook,Trujillo - cercado,25,1,0,20,2026-08-19,A. Del Portal,C4 Residuos solidos,baja
+374,"hace 2 dias que estan quemando basura en Las Delicias, el olor es insoportable atiendan por favor",app_municipal,Moche,17,0,0,2,2026-02-15,H. Arteaga,C4 Residuos solidos,alta
+375,xfa quedaron restos de poda en la acera de la plaza de Laredo por favor atiendan... y ademas las luminarias de la av. Trujillo no encienden,x,Laredo,26,0,0,20,2026-03-30,R. Candiotti,C4 Residuos solidos,baja
+376,"QUIERO REPORTAR QUE QUEDO EL DESMONTE DE UNA OBRA EN LAS QUINTANAS, SE ACUMULA TODOS LOS DÍAS URGE UNA SOLUCION",app_municipal,Trujillo - cercado,20,1,0,12,2026-07-07,M. Azcarate,C4 Residuos solidos,media
+377,"señores  de la muni, el camion de la basura no pasa por la plaza de Laredo, se acumula todos los dias, es la ruta de los chicos del colegio por favor atiendan",facebook,Laredo,32,0,1,3,2026-03-27,H. Arteaga,C4 Residuos solidos,alta
+378,"hace 5 dias que el contenedor de el balneario esta rebalsando, los perros abren las bolsas en la noche ya no sabemos a quien acudir",whatsapp,Huanchaco,25,0,0,5,2026-05-02,R. Candiotti,C4 Residuos solidos,media
+379,"alguien  puede ver que se acumula basura en la esquina de Pueblo Libre, los autos tienen que esquivar hasta cuando",whatsapp,La Esperanza,20,0,0,10,2025-12-11,R. Candiotti,C4 Residuos solidos,media
+380,"otra  vez la gente bota basura a cualquier hora en Alto Mochica, ya lleva varios días ahi, justo al frente hay un colegio gracias",facebook,El Porvenir,24,0,1,12,2026-04-16,A. Del Portal,C4 Residuos solidos,alta
+381,"ya es el colmo, quedo una rama grande colgando en el parque de El Recreo, está inclinado sobre donde juegan espero respuesta",facebook,Trujillo - cercado,22,0,0,1,2026-01-14,A. Del Portal,C5 Areas verdes y parques,alta
+382,El Tropico esta en pesimo estado,app_municipal,Huanchaco,6,0,0,8,2025-10-21,M. Azcarate,C5 Areas verdes y parques,media
+383,"YA  ES EL COLMO, EL PARQUE DE EL COMITE 12 ESTÁ LLENO DE MALEZA, YA SE METEN A TOMAR DE NOCHE LLEVA 8 DÍAS ASI",redaccion_propia,Alto Trujillo,25,0,0,8,2025-12-20,A. Del Portal,C5 Areas verdes y parques,media
+384,"falta  pintar las rejas del parque de la av. Pumacahua, es tema de presentacion ojala esta vez manden a alguien...",app_municipal,El Porvenir,20,0,0,45,2026-05-25,H. Arteaga,C5 Areas verdes y parques,media
+385,"otra vez no riegan el parque de el mercado, ya se meten a tomar de noche van 2 dias y nada...",redaccion_propia,Florencia de Mora,21,0,0,2,2025-12-27,M. Azcarate,C5 Areas verdes y parques,media
+386,"señores de la muni, el pasto del parque de la av. Larco está crecidisimo, ya no se puede ni caminar por el pasto...",app_municipal,Trujillo - cercado,23,0,0,15,2025-11-22,H. Arteaga,C5 Areas verdes y parques,baja
+387,por favor las bancas del parque de Buenos Aires estan despintadas por favor atiendan,facebook,Victor Larco Herrera,14,0,0,45,2025-11-19,R. Candiotti,C5 Areas verdes y parques,baja
+388,"desde hace 30 dias falta pintar las rejas del parque de urb. Palermo,, no corre prisa espero respuesta...",facebook,Trujillo - cercado,18,0,0,30,2026-01-17,H. Arteaga,C5 Areas verdes y parques,alta
+389,vecinos de la zona reportamos que hay un arbol a punto de caerse en el parque de Monserrate van 2 dias y nada,facebook,Trujillo - cercado,23,0,0,2,2026-03-16,H. Arteaga,C5 Areas verdes y parques,alta
+390,"buen dia, el letrero del parque de la av. Trujillo está viejo, ya no se puede ni caminar por el pasto lleva 30 días asi",app_municipal,Laredo,25,0,0,30,2025-12-03,A. Del Portal,C5 Areas verdes y parques,baja
+391,"quedo una rama grande colgando en el parque de el mercado, esta inclinado sobre donde juegan, al lado hay una posta medica ya reclamamos varias veces",libro_reclamaciones,Florencia de Mora,26,0,0,1,2025-10-21,H. Arteaga,C5 Areas verdes y parques,alta
+392,"por favor las bancas del parque de el balneario estan despintadas, ya no se puede ni caminar por el pasto ya reclamamos varias veces...",facebook,Huanchaco,24,0,0,30,2026-01-07,M. Azcarate,C5 Areas verdes y parques,baja
+393,"por favor falta pintar las rejas del parque de el puerto, ya no se puede ni caminar por el pasto ojala está vez manden a alguien",facebook,Salaverry,26,0,0,15,2026-02-24,H. Arteaga,C5 Areas verdes y parques,baja
+394,nadie atiende urb. San Andres,whatsapp,Trujillo - cercado,5,0,0,30,2026-03-03,R. Candiotti,C5 Areas verdes y parques,baja
+395,"faltan podar los árboles de la zona central, nadie hace mantenimiento hace meses hasta cuando...",whatsapp,Florencia de Mora,15,0,0,15,2026-06-09,H. Arteaga,C5 Areas verdes y parques,media
+396,"los juegos infantiles del parque de Barraza estan oxidados, da pena verlo espero respuesta",app_municipal,Laredo,14,0,0,15,2026-06-08,A. Del Portal,C5 Areas verdes y parques,media
+397,"el letrero del parque de urb. Palermo está viejo, es tema de presentacion",redaccion_propia,Trujillo - cercado,13,0,0,20,2025-10-07,M. Azcarate,C5 Areas verdes y parques,baja
+398,"ya es el colmo, falta pintar las rejas del parque de urb. Santa Maria nadie viene a ver",whatsapp,Trujillo - cercado,18,0,0,10,2025-11-15,M. Azcarate,C5 Areas verdes y parques,baja
+399,"buenos días, el letrero del parque de Miguel Grau está viejo, ya no se puede ni caminar por el pasto van 20 días y nada",facebook,El Porvenir,25,0,0,20,2026-01-04,R. Candiotti,C5 Areas verdes y parques,baja
+400,"buenas tardes, los juegos del parque de Pueblo Libre tienen fierros expuestos, esta inclinado sobre donde juegan urge una solucion... y ademas hay una humedad en la vereda de Manuel Arevalo",facebook,La Esperanza,31,1,0,1,2025-11-13,H. Arteaga,C5 Areas verdes y parques,alta
+401,"el columpio del parque de Husares de Junin está partido, un niño se puede cortar, por esa vereda caminan los ancianos del asilo",app_municipal,Trujillo - cercado,23,0,1,0,2026-03-22,A. Del Portal,C5 Areas verdes y parques,alta
+402,"el letrero del parque de la campina esta viejo, es tema de presentacion...",redaccion_propia,Moche,13,0,0,45,2026-02-21,R. Candiotti,C5 Areas verdes y parques,baja
+403,quiero reportar que el parque de Jerusalen esta seco,app_municipal,La Esperanza,9,0,0,12,2026-08-10,M. Azcarate,C5 Areas verdes y parques,media
+404,"hace 12 días que no hacen mantenimiento de las areas verdes de Santa Veronica, nadie hace mantenimiento hace meses",facebook,La Esperanza,19,0,0,12,2026-05-17,M. Azcarate,C5 Areas verdes y parques,media
+405,"señores de la muni, los juegos infantiles del parque de el sector E estan oxidados, da pena verlo, es la ruta de los chicos del colegio ya reclamamos varias veces",app_municipal,Alto Trujillo,30,0,1,7,2026-03-20,R. Candiotti,C5 Areas verdes y parques,alta
+406,"el parque de la av. 26 de Marzo quedo sin cerco y entran los perros, justo al frente hay un colegio",facebook,Florencia de Mora,21,0,1,12,2026-04-13,M. Azcarate,C5 Areas verdes y parques,alta
+407,"vecinos de la zona reportamos que las plantas del parque de Las Quintanas se estan muriendo, ya se meten a tomar de noche ya reclamamos varias veces",app_municipal,Trujillo - cercado,27,0,0,12,2026-05-22,R. Candiotti,C5 Areas verdes y parques,media
+408,"buen dia, falta pintar las rejas del parque de Liberacion Social van 25 dias y nada",redaccion_propia,Victor Larco Herrera,16,0,0,25,2026-01-16,R. Candiotti,C5 Areas verdes y parques,media
+409,quiero reportar que las bancas del parque de el mercado estan despintadas el vecindario ya se canso,libro_reclamaciones,Florencia de Mora,17,0,0,25,2026-01-08,H. Arteaga,C5 Areas verdes y parques,baja
+410,"reitero mi reclamo, el tobogan del parque de la av. Fatima sta roto y con puntas, esta inclinado sobre donde juegan gracias...",app_municipal,Trujillo - cercado,22,0,0,0,2025-12-15,H. Arteaga,C5 Areas verdes y parques,alta
+411,"faltan podar los árboles de el sector E, da pena verlo, es la ruta de los chicos del colegio espero respuesta",x,Alto Trujillo,21,0,1,3,2025-11-15,H. Arteaga,C5 Areas verdes y parques,alta
+412,"reitero mi reclamo, el pasto del parque de Liberacion Social está crecidisimo, ya no se puede ni caminar por el pasto ojala está vez manden a alguien",app_municipal,Victor Larco Herrera,27,0,0,5,2026-04-15,H. Arteaga,C5 Areas verdes y parques,baja
+413,"el pasto del parque de la zona alta esta crecidisimo, no corre prisa espero respuesta",libro_reclamaciones,Alto Trujillo,15,0,0,30,2025-12-03,R. Candiotti,C4 Residuos solidos,media
+414,"buenos dias,, la jardinera de la carretera a las huacas quedo pelada despues de la poda, ya no se puede ni caminar por el pasto",app_municipal,Moche,25,0,0,60,2026-05-05,M. Azcarate,C5 Areas verdes y parques,baja
+415,"ALGUIEN PUEDE VER QUE SE CAYO UN ARBOL SOBRE LA VEREDA DEL PARQUE DE URB. EL GOLF,, VA A PASAR UNA DESGRACIA YA NO SABEMOS A QUIEN ACUDIR...",facebook,Victor Larco Herrera,28,1,0,2,2025-12-08,R. Candiotti,C5 Areas verdes y parques,alta
+416,"no riegan el parque de urb. California,, ya se meten a tomar de noche urge una solucion",app_municipal,Victor Larco Herrera,17,1,0,3,2026-08-27,R. Candiotti,C5 Areas verdes y parques,media
+417,"ya es el colmo,, la jardinera de Liberacion Social quedo pelada despues de la poda espero respuesta...",facebook,Victor Larco Herrera,17,0,0,15,2026-08-24,M. Azcarate,C5 Areas verdes y parques,baja
+418,"el parque de la campina está seco, ya se meten a tomar de noche",libro_reclamaciones,Moche,14,0,0,7,2026-02-22,A. Del Portal,C5 Areas verdes y parques,media
+419,"desde hace 45 dias las bancas del parque de la av. Espana estan despintadas, no corre prisa ya no sabemos a quien acudir...",facebook,Trujillo - cercado,23,0,0,45,2025-12-04,R. Candiotti,C5 Areas verdes y parques,media
+420,"alguien puede ver que el parque de Miguel Grau quedo sin cerco y entran los perros, ya se meten a tomar de noche lleva 10 dias asi",app_municipal,El Porvenir,27,0,0,10,2025-11-14,A. Del Portal,C5 Areas verdes y parques,media
+421,"reitero mi reclamo, los juegos infantiles del parque de la av. 26 de Marzo estan oxidados, da pena verlo, por esa vereda caminan los ancianos del asilo",redaccion_propia,Florencia de Mora,27,0,1,3,2025-12-03,H. Arteaga,C5 Areas verdes y parques,alta
+422,"el  tobogan del parque de la av. Pumacahua esta roto y con puntas, los fierros estan oxidados y filudos lleva 4 dias asi",redaccion_propia,El Porvenir,23,0,0,4,2026-06-21,A. Del Portal,C5 Areas verdes y parques,alta
+423,"denuncio q quedo una rama grande colgando en el parque de Santa Veronica, justo al frente hay un colegio gracias",redaccion_propia,La Esperanza,20,0,1,1,2026-08-26,M. Azcarate,C5 Areas verdes y parques,alta
+424,"buenos días, faltan podar los árboles de Las Delicias, las plantas se estan secando, es la ruta de los chicos del colegio espero respuesta",redaccion_propia,Moche,24,0,1,10,2025-10-04,R. Candiotti,C5 Areas verdes y parques,media
+425,"señores de la muni,, la jardinera de el sector E quedo pelada despues de la poda, ya no se puede ni caminar por el pasto...",libro_reclamaciones,Alto Trujillo,25,0,0,30,2025-11-26,R. Candiotti,C5 Areas verdes y parques,media
+426,"señores de la municipio,, el parque de urb. Palermo esta lleno de maleza, los juegos ya no se pueden usar",whatsapp,Trujillo - cercado,20,0,0,10,2026-04-18,R. Candiotti,C5 Areas verdes y parques,media
+427,"ya es el colmo, se cayo un árbol sobre la acera del parque de la plaza de Laredo, está inclinado sobre donde juegan, es la ruta de los chicos del colegio",whatsapp,Laredo,31,1,1,1,2026-02-12,R. Candiotti,C5 Areas verdes y parques,alta
+428,"buen  dia, las bancas del parque de la av. Victor Larco estan despintadas... y ademas la luminaria de el balneario esta sucia",facebook,Huanchaco,22,0,0,15,2025-10-27,H. Arteaga,C5 Areas verdes y parques,baja
+429,"el parque de Jerusalen quedo sin cerco y entran los perros, nadie hace mantenimiento hace meses gracias",facebook,La Esperanza,17,0,0,7,2025-10-01,M. Azcarate,C5 Areas verdes y parques,alta
+430,"reitero mi reclamo,, falta pintar las rejas del parque de el mercado, ya no se puede ni caminar por el pasto atiendan por favor",whatsapp,Florencia de Mora,24,0,0,25,2026-04-04,A. Del Portal,C4 Residuos solidos,media
+431,vengan a ver el sector E,app_municipal,Alto Trujillo,6,0,0,4,2025-12-18,M. Azcarate,C5 Areas verdes y parques,alta
+432,"EL COLUMPIO DEL PARQUE DE LAS QUINTANAS ESTÁ PARTIDO, UN NIÑO SE PUEDE CORTAR VAN 2 DÍAS Y NADA",facebook,Trujillo - cercado,19,0,1,2,2025-10-24,M. Azcarate,C5 Areas verdes y parques,alta
+433,"xfa las bancas del parque de Monserrate estan despintadas, no corre prisa ya no sabemos a quien acudir",libro_reclamaciones,Trujillo - cercado,18,0,0,10,2026-06-20,H. Arteaga,C5 Areas verdes y parques,baja
+434,"por favor no riegan el parque de el sector I, nadie hace mantenimiento hace meses, al lado hay una posta medica gracias",facebook,Alto Trujillo,22,0,0,8,2026-01-16,M. Azcarate,C5 Areas verdes y parques,alta
+435,EL TOBOGAN DEL PARQUE DE EL SECTOR I ESTA ROTO Y CON PUNTAS EL VECINDARIO YA SE CANSO,facebook,Alto Trujillo,18,0,0,3,2026-02-09,M. Azcarate,C5 Areas verdes y parques,alta
+436,"xfa no hacen mantenimiento de las areas verdes de el sector I,, por esa acera caminan los ancianos del asilo",facebook,Alto Trujillo,20,0,1,12,2026-06-09,R. Candiotti,C5 Areas verdes y parques,alta
+437,"por favor falta pintar las rejas del parque de la av. Larco cuadra 12,, ya no se puede ni caminar por el pasto lleva 45 dias asi",app_municipal,Victor Larco Herrera,27,0,0,45,2026-04-12,H. Arteaga,C5 Areas verdes y parques,media
+438,"vecinos de la zona reportamos que el árbol de la av. Espana tiene las raices levantadas y se inclina sobre la vereda, está inclinado sobre donde juegan",facebook,Trujillo - cercado,27,0,0,0,2026-07-16,H. Arteaga,C5 Areas verdes y parques,alta
+439,"se cayo un árbol sobre la vereda del parque de Vista Alegre,, los fierros estan oxidados y filudos, por ahi pasan los escolares del colegio ya no sabemos a quien acudir... y ademas toda la cuadra de urb. El Golf esta a oscuras",facebook,Victor Larco Herrera,43,1,1,1,2026-04-15,M. Azcarate,C5 Areas verdes y parques,alta
+440,"vecinos de la zona reportamos que las plantas del parque de el jr. Pizarro se estan muriendo, las plantas se estan secando, justo al frente hay un colegio",facebook,Trujillo - cercado,28,0,1,3,2026-02-24,A. Del Portal,C5 Areas verdes y parques,media
+441,el semáforo del cruce de urb. San Andres está apagado hasta cuando,x,Trujillo - cercado,12,0,0,3,2026-02-20,R. Candiotti,C6 Señalizacion y semaforos,alta
+442,"ya es el colmo, el semáforo de urb. California marca verde en los dos sentidos, nadie respeta el cruce hasta cuando",app_municipal,Victor Larco Herrera,21,0,0,1,2026-07-02,R. Candiotti,C6 Señalizacion y semaforos,alta
+443,"falta un reductor de velocidad en urb. Santa Maria,, los carros corren demasiado atiendan por favor",whatsapp,Trujillo - cercado,16,0,0,7,2026-02-28,H. Arteaga,C6 Señalizacion y semaforos,media
+444,"xfa el semaforo peatonal de Villa del Mar no funciona,, ya hubo un choque esta semana, por ahi cruzan los escolares a la hora de salida",app_municipal,Huanchaco,26,1,1,4,2025-12-20,M. Azcarate,C6 Señalizacion y semaforos,alta
+445,"quedo  tapada la señal de pare de Buenos Aires, ya hubo un choque esta semana ojala esta vez manden a alguien",facebook,Victor Larco Herrera,21,1,0,2,2025-10-31,M. Azcarate,C6 Señalizacion y semaforos,alta
+446,"hace 45 dias que el poste de la señal de el mercado esta oxidado, es un detalle de mantenimiento gracias",facebook,Florencia de Mora,20,0,0,45,2026-01-17,H. Arteaga,C6 Señalizacion y semaforos,baja
+447,hay un problema serio en Husares de Junin,whatsapp,Trujillo - cercado,8,0,0,60,2026-03-21,M. Azcarate,C6 Señalizacion y semaforos,baja
+448,"el  semáforo del cruce de urb. El Golf está apagado, van a atropellar a alguien, al lado hay una posta medica ya reclamamos varias veces",facebook,Victor Larco Herrera,25,1,0,1,2026-03-08,M. Azcarate,C6 Señalizacion y semaforos,alta
+449,"FALTA SEÑALIZAR EL PARADERO DE VILLA HERMOSA, LOS VEHICULOS CORREN DEMASIADO HASTA CUANDO",redaccion_propia,Florencia de Mora,13,0,0,10,2025-10-20,A. Del Portal,C6 Señalizacion y semaforos,media
+450,"buenos dias, el semaforo peatonal de urb. San Andres no funciona ojala esta vez manden a alguien",facebook,Trujillo - cercado,17,0,0,1,2026-04-03,H. Arteaga,C6 Señalizacion y semaforos,alta
+451,"SE CAYO LA SEÑAL DE PARE DE LAS DELICIAS,, NADIE RESPETA EL CRUCE, POR AHI PASAN LOS NIÑOS DEL COLEGIO GRACIAS",facebook,Moche,21,1,1,2,2026-02-21,A. Del Portal,C6 Señalizacion y semaforos,alta
+452,"la señal de transito de la av. America esta doblada, no se sabe quien pasa primero",libro_reclamaciones,Trujillo - cercado,16,0,0,8,2026-05-14,A. Del Portal,C6 Señalizacion y semaforos,media
+453,"el semaforo de El Tropico se demora muchisimo en cambiar, se hace cola larga ya reclamamos varias veces",redaccion_propia,Huanchaco,18,0,0,3,2026-01-23,H. Arteaga,C6 Señalizacion y semaforos,media
+454,"xfa el semáforo peatonal de la zona alta da muy poco tiempo pa cruzar, se hace cola larga el vecindario ya se canso",facebook,Alto Trujillo,23,0,0,15,2026-05-21,M. Azcarate,C6 Señalizacion y semaforos,media
+455,"el semaforo de urb. San Andres se demora muchisimo en cambiar, hay que cruzar corriendo atiendan por favor...",x,Trujillo - cercado,18,0,0,7,2026-02-07,R. Candiotti,C6 Señalizacion y semaforos,media
+456,"señores de la muni, el semáforo de la av. Larco se apaga y prende solo nadie viene a ver",x,Trujillo - cercado,19,0,0,4,2026-06-01,R. Candiotti,C6 Señalizacion y semaforos,alta
+457,"vecinos de la zona reportamos que el pintado de la linea peatonal de Jerusalen está borrado, no es urgente",facebook,La Esperanza,19,1,0,20,2026-05-23,R. Candiotti,C6 Señalizacion y semaforos,baja
+458,otra vez no hay señalización en el cruce de el centro de Moche,facebook,Moche,13,0,0,8,2026-01-16,R. Candiotti,C6 Señalizacion y semaforos,media
+459,hace 5 dias que las lineas de estacionamiento de la av. Pumacahua estan desgastadas,app_municipal,El Porvenir,14,0,0,5,2026-03-21,M. Azcarate,C6 Señalizacion y semaforos,baja
+460,"YA ES EL COLMO,, QUEDO TAPADA LA SEÑAL DE PARE DE WICHANZAO, LOS CARROS NO FRENAN GRACIAS",facebook,La Esperanza,17,0,0,1,2026-04-29,M. Azcarate,C6 Señalizacion y semaforos,alta
+461,"desde hace 2 dias la señal de la av. 26 de Marzo quedo tapada por un arbol, los autos corren demasiado espero respuesta",whatsapp,Florencia de Mora,23,0,0,2,2026-04-21,M. Azcarate,C6 Señalizacion y semaforos,media
+462,"YA ES EL COLMO,, LA SEÑAL DE TRANSITO DE VILLA DEL MAR ESTÁ DOBLADA YA RECLAMAMOS VARIAS VECES",app_municipal,Huanchaco,18,0,0,8,2026-08-04,A. Del Portal,C6 Señalizacion y semaforos,media
+463,"buen dia, falta un reductor de velocidad en urb. Primavera, no se sabe quien pasa primero el vecindario ya se canso",x,Trujillo - cercado,21,0,0,7,2025-11-20,R. Candiotti,C6 Señalizacion y semaforos,media
+464,"BUEN DIA, LA SEÑAL DE TRANSITO DE URB. PRIMAVERA ESTA DOBLADA, SE HACE COLA LARGA, POR AHI PASAN LOS ESCOLARES DEL COLEGIO",app_municipal,Trujillo - cercado,22,0,1,8,2026-04-02,R. Candiotti,C6 Señalizacion y semaforos,alta
+465,"quedo tapada la señal de pare de el sector E, los carros no frenan, justo al frente hay un colegio...",facebook,Alto Trujillo,20,0,1,2,2025-11-09,H. Arteaga,C6 Señalizacion y semaforos,alta
+466,"la señal de la av. Trujillo quedo tapada por un arbol, se hace cola larga por favor atiendan",facebook,Laredo,18,0,0,3,2025-12-31,M. Azcarate,C6 Señalizacion y semaforos,media
+467,"desde hace 5 dias no hay ningun semaforo operativo en el cruce de la av. principal,, por ahi pasan los niños del colegio",whatsapp,Salaverry,23,0,1,5,2025-12-04,A. Del Portal,C1 Vias y veredas,alta
+468,xfa falta señalizar el paradero de la av. Condorcanqui por favor atiendan,whatsapp,La Esperanza,12,0,0,8,2026-03-09,R. Candiotti,C6 Señalizacion y semaforos,media
+469,en Menocucho todo esta destrozado,facebook,Laredo,5,0,0,4,2026-06-19,A. Del Portal,C6 Señalizacion y semaforos,alta
+470,"buenos días, el semáforo peatonal de urb. El Golf da muy poco tiempo pa cruzar, no se entiende que indica atiendan por favor...",facebook,Victor Larco Herrera,23,0,0,12,2026-03-18,R. Candiotti,C6 Señalizacion y semaforos,media
+471,"LA  SEÑAL DE TRANSITO DE MIGUEL GRAU ESTÁ DOBLADA, HAY QUE CRUZAR CORRIENDO, POR ESA VEREDA CAMINAN LOS ANCIANOS DEL ASILO EL VECINDARIO YA SE CANSO",facebook,El Porvenir,26,0,1,3,2025-12-01,M. Azcarate,C6 Señalizacion y semaforos,media
+472,"otra vez la señal de transito de Husares de Junin está doblada,, hay que cruzar corriendo gracias",facebook,Trujillo - cercado,17,0,0,7,2026-05-29,M. Azcarate,C6 Señalizacion y semaforos,media
+473,"el semáforo peatonal de la zona central da muy poco tiempo para cruzar, no se entiende que indica espero respuesta",redaccion_propia,Florencia de Mora,20,0,0,10,2025-11-22,M. Azcarate,C6 Señalizacion y semaforos,media
+474,"DESDE HACE 1 DIAS QUEDO TAPADA LA SEÑAL DE PARE DE LA AV. ESPANA,, LOS CARROS PASAN COMO LOCOS, ES LA RUTA DE LOS CHICOS DEL COLEGIO",libro_reclamaciones,Trujillo - cercado,27,0,1,1,2026-04-13,A. Del Portal,C6 Señalizacion y semaforos,alta
+475,"buen dia, las lineas de estacionamiento de la av. America estan desgastadas el vecindario ya se canso",facebook,Trujillo - cercado,17,0,0,15,2026-06-05,R. Candiotti,C6 Señalizacion y semaforos,baja
+476,"el semaforo peatonal de la av. Larco no funciona, los carros pasan como locos por favor atiendan",app_municipal,Trujillo - cercado,17,0,0,1,2026-03-10,A. Del Portal,C6 Señalizacion y semaforos,alta
+477,"vecinos de la zona reportamos que las lineas de estacionamiento de Manuel Arevalo estan desgastadas,, es un detalle de mantenimiento ojala está vez manden a alguien",app_municipal,La Esperanza,26,0,0,20,2025-11-22,R. Candiotti,C6 Señalizacion y semaforos,baja
+478,"otra vez falta un reductor de velocidad en el centro de Moche,, no se sabe quien pasa primero atiendan por favor",app_municipal,Moche,21,0,0,2,2025-10-28,H. Arteaga,C6 Señalizacion y semaforos,media
+479,"hace  12 días que la señal de transito de Buenos Aires está doblada, los carros corren demasiado van 12 días y nada...",facebook,Victor Larco Herrera,22,0,0,12,2025-11-03,M. Azcarate,C6 Señalizacion y semaforos,media
+480,"BUENOS DÍAS, EL SEMÁFORO PEATONAL DE URB. PRIMAVERA DA MUY POCO TIEMPO PARA CRUZAR, NO SE ENTIENDE QUE INDICA POR FAVOR ATIENDAN",app_municipal,Trujillo - cercado,22,0,0,12,2026-03-06,R. Candiotti,C6 Señalizacion y semaforos,media
+481,"ya es el colmo, el semaforo de Buenos Aires se apaga y prende solo, los autos pasan como locos hasta cuando",app_municipal,Victor Larco Herrera,21,0,0,1,2026-02-04,H. Arteaga,C6 Señalizacion y semaforos,alta
+482,"quiero reportar que se cayo la señal de pare de la av. Espana, los autos pasan como locos lleva 2 dias asi",facebook,Trujillo - cercado,22,1,0,2,2026-06-23,H. Arteaga,C6 Señalizacion y semaforos,alta
+483,"el semaforo peatonal de Las Quintanas no funciona, ya hubo un choque esta semana ya reclamamos varias veces...",x,Trujillo - cercado,18,1,0,0,2025-11-25,A. Del Portal,C6 Señalizacion y semaforos,alta
+484,arreglen la zona alta por favor,x,Alto Trujillo,6,0,0,30,2025-11-26,M. Azcarate,C6 Señalizacion y semaforos,baja
+485,"denuncio  que el semáforo de la av. Trujillo se demora muchisimo en cambiar, los carros corren demasiado",x,Laredo,17,0,0,5,2025-10-01,M. Azcarate,C6 Señalizacion y semaforos,media
+486,"falta señalizar el paradero de Covicorti, los autos corren demasiado gracias",facebook,Trujillo - cercado,11,0,0,5,2026-03-04,A. Del Portal,C6 Señalizacion y semaforos,media
+487,"se cayo la señal de pare de Miguel Grau, ya hubo un choque esta semana gracias",facebook,El Porvenir,16,1,0,1,2026-05-15,A. Del Portal,C6 Señalizacion y semaforos,alta
+488,"desde hace 10 dias no hay señalizacion en el cruce de Barraza, no se sabe quien pasa primero",app_municipal,Laredo,18,0,0,10,2025-12-05,A. Del Portal,C6 Señalizacion y semaforos,alta
+489,otra vez el semáforo de Villa Hermosa se apaga y prende solo!!,libro_reclamaciones,Florencia de Mora,12,0,0,1,2025-11-01,M. Azcarate,C1 Vias y veredas,alta
+490,"falta repintar el crucero peatonal de Alto Mochica, es un detalle de mantenimiento ya reclamamos varias veces",whatsapp,El Porvenir,17,0,0,15,2026-08-16,R. Candiotti,C6 Señalizacion y semaforos,baja
+491,"otra vez el semáforo peatonal de la av. America no funciona, los carros pasan como locos espero respuesta",app_municipal,Trujillo - cercado,18,0,0,1,2026-05-13,M. Azcarate,C6 Señalizacion y semaforos,alta
+492,"falta un reductor de velocidad en la av. Espana, hay que cruzar corriendo, ahi mismo funciona un nido van 5 días y nada",facebook,Trujillo - cercado,23,0,1,5,2026-05-23,M. Azcarate,C1 Vias y veredas,alta
+493,el semaforo peatonal de urb. El Golf da muy poco tiempo para cruzar lleva 2 dias asi!!,facebook,Victor Larco Herrera,17,0,0,2,2026-06-26,H. Arteaga,C6 Señalizacion y semaforos,media
+494,"no hay señalización en el cruce de El Recreo, los autos corren demasiado, por esa vereda caminan los ancianos del asilo van 10 días y nada",app_municipal,Trujillo - cercado,26,0,1,10,2026-07-25,A. Del Portal,C6 Señalizacion y semaforos,media
+495,"reitero mi reclamo, la señal de Nuevo Porvenir quedo tapada por un arbol, los carros corren demasiado, justo al frente hay un colegio hasta cuando",redaccion_propia,El Porvenir,25,0,1,2,2026-05-04,M. Azcarate,C6 Señalizacion y semaforos,alta
+496,"quiero reportar que el semáforo de la av. Pumacahua marca verde en los dos sentidos, los carros pasan como locos",facebook,El Porvenir,20,0,0,0,2026-01-12,R. Candiotti,C6 Señalizacion y semaforos,alta
+497,"alguien puede ver que falta un reductor de velocidad en la av. Victor Larco, los carros corren demasiado el vecindario ya se canso",redaccion_propia,Huanchaco,23,0,0,2,2026-07-20,H. Arteaga,C6 Señalizacion y semaforos,media
+498,"no hay señalización en el cruce de urb. El Golf,, se hace cola larga ojala está vez manden a alguien...",facebook,Victor Larco Herrera,20,0,0,3,2026-02-06,H. Arteaga,C6 Señalizacion y semaforos,media
+499,"vecinos de la zona reportamos que falta repintar el crucero peatonal de Huerta Grande, no es urgente ojala está vez manden a alguien",redaccion_propia,Victor Larco Herrera,23,1,0,10,2025-10-16,M. Azcarate,C6 Señalizacion y semaforos,baja
+500,"falta un reductor de velocidad en Manuel Arevalo, no se entiende que indica ya reclamamos varias veces y ademas la berma de Pueblo Libre esta destrozada",x,La Esperanza,26,0,0,2,2025-11-06,H. Arteaga,C6 Señalizacion y semaforos,media
